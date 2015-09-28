@@ -1,0 +1,5500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ja\n"
+"POT-Creation-Date: 2015-09-21 16:45+0700\n"
+"PO-Revision-Date: 2015-09-21 16:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __:1,2c;__:1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/controller/admin/companies.php:39
+msgctxt "TEXT"
+msgid "List Companies"
+msgstr "企業一覧"
+
+#: classes/controller/admin/companies.php:58
+#: modules/compeleader/views/managers/confirm.php:23
+#: views/admin/companies/confirm.php:29 views/admin/companies/view.php:4
+#: views/company/settings/competencies/index.php:29
+#: views/company/settings/mbos/difficulties.php:11
+#: views/company/settings/mbos/index.php:10
+#: views/company/settings/mbos/labels.php:11 views/login/index.php:40
+#: views/mypage/company.php:3
+msgctxt "TEXT"
+msgid "Company"
+msgstr "企業"
+
+#: classes/controller/admin/companies.php:73
+#: classes/controller/admin/employees.php:150
+#: modules/compeleader/classes/controller/accounts.php:102
+#: modules/compeleader/classes/controller/managers.php:71
+msgctxt "TEXT"
+msgid "Edit "
+msgstr "編集"
+
+#: classes/controller/admin/companies.php:73
+msgctxt "TEXT"
+msgid "Create New Company"
+msgstr "企業新規作成"
+
+#: classes/controller/admin/companies.php:91
+#: classes/controller/admin/employees.php:171
+#: modules/compeleader/classes/controller/managers.php:90
+#: modules/user/classes/controller/mypage.php:70
+msgctxt "TEXT"
+msgid "Confirm"
+msgstr "確認"
+
+#: classes/controller/admin/companies.php:125
+#: classes/controller/application.php:125 classes/controller/sheets.php:1396
+#: modules/compeleader/classes/controller/managers.php:125
+msgctxt "TEXT"
+msgid "Thanks"
+msgstr "ありがとうございます"
+
+#: classes/controller/admin/companies.php:135
+msgctxt "TEXT"
+msgid "Deleted company #"
+msgstr "企業削除"
+
+#: classes/controller/admin/companies.php:137
+msgctxt "TEXT"
+msgid "Could not delete company #"
+msgstr "企業が削除できませんでした"
+
+#: classes/controller/admin/companies.php:149
+msgctxt "TEXT"
+msgid "Actived company #"
+msgstr "企業を有効にする"
+
+#: classes/controller/admin/companies.php:151
+msgctxt "TEXT"
+msgid "Could not active company #"
+msgstr "企業が有効にできない"
+
+#: classes/controller/admin/companies.php:162
+msgctxt "TEXT"
+msgid "Deactived company #"
+msgstr "企業を無効にする"
+
+#: classes/controller/admin/companies.php:164
+msgctxt "TEXT"
+msgid "Could not deactive company #"
+msgstr "企業が無効にできない"
+
+#: classes/controller/admin/divisions.php:30
+msgctxt "TEXT"
+msgid "List Divisions"
+msgstr "部門一覧"
+
+#: classes/controller/admin/divisions.php:42
+msgctxt "TEXT"
+msgid "division"
+msgstr "部門"
+
+#: classes/controller/admin/divisions.php:100
+msgctxt "TEXT"
+msgid "Deleted division #"
+msgstr "部門削除"
+
+#: classes/controller/admin/divisions.php:102
+msgctxt "TEXT"
+msgid "Could not delete division #"
+msgstr "部門が削除できませんでした"
+
+#: classes/controller/admin/employees.php:39
+msgctxt "TEXT"
+msgid "List employees"
+msgstr "社員一覧"
+
+#: classes/controller/admin/employees.php:82
+msgctxt "TEXT"
+msgid "employee"
+msgstr "社員"
+
+#: classes/controller/admin/employees.php:150
+msgctxt "TEXT"
+msgid "Create new employee"
+msgstr "新入社員作成"
+
+#: classes/controller/admin/employees.php:184 classes/controller/mypage.php:158
+msgctxt "TEXT"
+msgid "Update profile successfully"
+msgstr "プロフィールアップデート成功"
+
+#: classes/controller/admin/employees.php:202
+msgctxt "TEXT"
+msgid "Deleted employee #"
+msgstr "社員削除"
+
+#: classes/controller/admin/employees.php:204
+msgctxt "TEXT"
+msgid "Could not delete employee #"
+msgstr "社員が削除できませんでした"
+
+#: classes/controller/admin/index.php:22
+msgctxt "LABEL"
+msgid "Email or Username"
+msgstr "メールまたはユーザー"
+
+#: classes/controller/admin/index.php:24
+#: modules/compeleader/classes/controller/changepassword.php:42
+#: modules/compeleader/classes/controller/login.php:44
+#: modules/compeleader/views/accounts/new.php:50
+#: modules/compeleader/views/changepassword/index.php:15
+#: modules/compeleader/views/login/index.php:18
+#: modules/compeleader/views/managers/index.php:177
+#: modules/user/classes/controller/login.php:48
+#: modules/user/views/login/index.php:18 views/admin/employees/index.php:252
+#: views/approvals/index.php:126 views/login/index.php:51
+msgctxt "LABEL"
+msgid "Password"
+msgstr "パスワード"
+
+#: classes/controller/admin/index.php:39
+msgctxt "TEXT"
+msgid "Welcome "
+msgstr "ようこそ"
+
+#: classes/controller/admin/index.php:42
+msgctxt "TEXT"
+msgid "Fail"
+msgstr "失敗"
+
+#: classes/controller/admin/index.php:47
+msgctxt "TEXT"
+msgid "Login"
+msgstr "ログイン"
+
+#: classes/controller/admin/index.php:70
+msgctxt "TEXT"
+msgid "Dashboard"
+msgstr "ダッシューボード"
+
+#: classes/controller/admin/uploader.php:36
+msgctxt "TEXT"
+msgid "List Files"
+msgstr "ファイル一覧"
+
+#: classes/controller/admin/uploader.php:64 views/admin/uploader/upload.php:2
+msgctxt "TEXT"
+msgid "Upload File"
+msgstr "ファイルのアップロード"
+
+#: classes/controller/admin/uploader.php:88
+msgctxt "TEXT"
+msgid "Upload Competency File"
+msgstr "コンピテンシーファイルのアップロード"
+
+#: classes/controller/admin/uploader.php:106
+msgctxt "TEXT"
+msgid "Uploaded Success"
+msgstr "アップロード成功"
+
+#: classes/controller/admin/uploader.php:122
+msgctxt "TEXT"
+msgid "Deleted file #"
+msgstr "ファイル削除"
+
+#: classes/controller/admin/uploader.php:124
+msgctxt "TEXT"
+msgid "Could not delete file #"
+msgstr "ファイルが削除できませんでした"
+
+#: classes/controller/application.php:41 classes/controller/sheetlist.php:35
+#: classes/controller/sheets.php:236 views/admin/applications/list.php:9
+#: views/application/update.php:10 views/approvals/list.php:8
+#: views/approvals/view.php:9
+msgctxt "TEXT"
+msgid "Application"
+msgstr "申請書"
+
+#: classes/controller/application.php:50 classes/controller/application.php:92
+#: classes/controller/sheets.php:1363
+msgctxt "TEXT"
+msgid "Create Application"
+msgstr "申請書作成"
+
+#: classes/controller/approvals.php:50
+msgctxt "TEXT"
+msgid "List Applications"
+msgstr "申請書一覧"
+
+#: classes/controller/approvals.php:80
+msgctxt "TEXT"
+msgid "Approval"
+msgstr "承認"
+
+#: classes/controller/company/settings/competencies.php:39
+msgid "All Competency List"
+msgstr "コンピテンシー一覧"
+
+#: classes/controller/company/settings/competencies.php:59
+msgid "Competency Score Label List"
+msgstr "コンピテンシースコアラベル一覧"
+
+#: classes/controller/company/settings/competencies.php:80
+msgctxt "TEXT"
+msgid "Create Competency Score Label"
+msgstr "コンピテンシースコアラベル作成"
+
+#: classes/controller/company/settings/competencies.php:115
+msgid "Competency Achievements List"
+msgstr "コンピテンシー達成一覧"
+
+#: classes/controller/company/settings/competencies.php:137
+msgctxt "TEXT"
+msgid "Create Competency Achievement"
+msgstr "コンピテンシー達成作成"
+
+#: classes/controller/company/settings/competencies.php:183
+#: classes/controller/company/settings/competencies.php:207
+msgid "Create Competency"
+msgstr "コンピテンシー作成"
+
+#: classes/controller/company/settings/competencies.php:259
+msgid " could not import"
+msgstr "インポートできませんでした"
+
+#: classes/controller/company/settings/competencies.php:280
+msgid " could not delete"
+msgstr "削除できませんでした"
+
+#: classes/controller/company/settings/competencies.php:319
+msgid "Edit Competency"
+msgstr "コンピテンシー編集"
+
+#: classes/controller/company/settings/competencies.php:336
+msgid "Competency"
+msgstr "コンピテンシー"
+
+#: classes/controller/company/settings/grades.php:18
+#: classes/controller/company/settings/grades.php:28
+#: classes/controller/company/settings/grades.php:60
+#: classes/controller/company/settings/grades.php:73
+msgctxt "TEXT"
+msgid "Grades"
+msgstr "等級"
+
+#: classes/controller/company/settings/grades.php:38
+msgctxt "TEXT"
+msgid "Form has expired. Please submit again."
+msgstr ""
+
+#: classes/controller/company/settings/grades.php:48
+msgctxt "TEXT"
+msgid "Salary grade :grade_name is edited successfully"
+msgstr ":grade_name の給与等級が編集できました"
+
+#: classes/controller/company/settings/grades.php:48
+#: classes/controller/news.php:61 lang/ja/dummy.php:3
+msgid "DOT"
+msgstr "。"
+
+#: classes/controller/company/settings/grades.php:51
+msgctxt "TEXT"
+msgid "Failed to save data."
+msgstr ""
+
+#: classes/controller/company/settings/grades.php:54
+msgctxt "TEXT"
+msgid "Some data field is invalid."
+msgstr ""
+
+#: classes/controller/company/settings/masterterm.php:31
+msgctxt "TEXT"
+msgid "List masterterm"
+msgstr "期間マスター一覧"
+
+#: classes/controller/company/settings/masterterm.php:55
+#: classes/controller/company/settings/mbo.php:66
+#: classes/controller/company/settings/mbo.php:105
+#: classes/controller/templates.php:56
+#: modules/compeleader/classes/controller/accounts.php:58
+#: modules/compeleader/classes/controller/authitem.php:59
+#: modules/compeleader/classes/controller/groups.php:56
+#: modules/defaults/classes/controller/news.php:58
+#: modules/rights/classes/controller/authitem.php:61
+msgctxt "TEXT"
+msgid " created."
+msgstr "作成しました"
+
+#: classes/controller/company/settings/masterterm.php:58
+#: classes/controller/news.php:64 classes/controller/templates.php:59
+#: modules/compeleader/classes/controller/accounts.php:61
+#: modules/compeleader/classes/controller/authitem.php:62
+#: modules/compeleader/classes/controller/groups.php:59
+#: modules/defaults/classes/controller/news.php:61
+#: modules/rights/classes/controller/authitem.php:64
+msgctxt "TEXT"
+msgid " can not created."
+msgstr "作成できませんでした"
+
+#: classes/controller/company/settings/masterterm.php:65
+msgctxt "TEXT"
+msgid "Create Evaluation Master Term"
+msgstr "期間マスター評価編集"
+
+#: classes/controller/company/settings/masterterm.php:92
+#: classes/controller/news.php:101 classes/controller/templates.php:99
+#: modules/compeleader/classes/controller/accounts.php:92
+#: modules/compeleader/classes/controller/authitem.php:136
+#: modules/compeleader/classes/controller/groups.php:90
+#: modules/defaults/classes/controller/news.php:96
+msgctxt "TEXT"
+msgid " updated."
+msgstr "更新しました"
+
+#: classes/controller/company/settings/masterterm.php:95
+#: classes/controller/news.php:104 classes/controller/templates.php:102
+#: modules/compeleader/classes/controller/accounts.php:95
+#: modules/compeleader/classes/controller/authitem.php:139
+#: modules/compeleader/classes/controller/groups.php:93
+#: modules/defaults/classes/controller/news.php:99
+msgctxt "TEXT"
+msgid " can not updated."
+msgstr "更新できませんでした"
+
+#: classes/controller/company/settings/masterterm.php:102
+msgctxt "TEXT"
+msgid "Edit Evaluation Master Term"
+msgstr "期間マスター評価編集"
+
+#: classes/controller/company/settings/masterterm.php:118
+msgctxt "TEXT"
+msgid "Evaluation Master Term"
+msgstr "期間マスター評価"
+
+#: classes/controller/company/settings/masterterm.php:137
+msgctxt "TEXT"
+msgid "Could not delete master term #"
+msgstr "期間マスターが削除できませんでした"
+
+#: classes/controller/company/settings/masterterm.php:140
+msgctxt "TEXT"
+msgid "Deleted master term #"
+msgstr "期間マスターを削除しました"
+
+#: classes/controller/company/settings/mbo.php:33
+msgid "All Mbo Template List"
+msgstr ""
+
+#: classes/controller/company/settings/mbo.php:77
+msgctxt "TEXT"
+msgid "Edit Mbo Template"
+msgstr ""
+
+#: classes/controller/company/settings/mbo.php:115
+msgctxt "TEXT"
+msgid "Create Mbo Template"
+msgstr ""
+
+#: classes/controller/company/settings/mbo.php:130
+msgid "Mbo Template"
+msgstr ""
+
+#: classes/controller/company/settings/mbo.php:165
+msgid "All Mbo Difficulty List"
+msgstr "MBO難易度一覧"
+
+#: classes/controller/company/settings/mbo.php:184
+msgctxt "TEXT"
+msgid "Create Mbo difficulty"
+msgstr "MBO難易度作成"
+
+#: classes/controller/company/settings/mbo.php:219
+msgid "All Mbo Score Label List"
+msgstr "MBOスコアラベル一覧"
+
+#: classes/controller/company/settings/mbo.php:238
+msgctxt "TEXT"
+msgid "Create Mbo Score Label"
+msgstr "MBOスコアラベル作成"
+
+#: classes/controller/company/settings/ratings.php:31
+msgctxt "TEXT"
+msgid "Evaluation "
+msgstr ""
+
+#: classes/controller/company/settings/ratings.php:56
+msgctxt "TEXT"
+msgid "Absolute item must be connect together"
+msgstr ""
+
+#: classes/controller/company/settings/ratings.php:64
+msgctxt "TEXT"
+msgid "Relative"
+msgstr ""
+
+#: classes/controller/company/settings/ratings.php:68
+msgctxt "TEXT"
+msgid "Absolute"
+msgstr ""
+
+#: classes/controller/company/settings/ratings.php:105
+#: classes/controller/company/settings/ratings.php:120
+msgctxt "TEXT"
+msgid "Delete data was be failed"
+msgstr ""
+
+#: classes/controller/company/settings/ratings.php:115
+msgctxt "TEXT"
+msgid "Delete data successfully"
+msgstr ""
+
+#: classes/controller/company/settings/ratings.php:158
+msgctxt "TEXT"
+msgid "Copy data successfully"
+msgstr ""
+
+#: classes/controller/company/settings/ratings.php:163
+msgctxt "TEXT"
+msgid "Copy data was be failed"
+msgstr ""
+
+#: classes/controller/company/settings/ratings.php:222
+#: classes/controller/company/settings/ratings.php:254
+#: classes/controller/company/settings/ratings.php:299
+#: classes/controller/company/settings/ratings.php:332
+msgctxt "TEXT"
+msgid "Save data was be failed"
+msgstr ""
+
+#: classes/controller/company/settings/ratings.php:316
+msgctxt "TEXT"
+msgid "Save data successfully"
+msgstr ""
+
+#: classes/controller/company/settings/terms.php:34
+msgctxt "TEXT"
+msgid "List Term"
+msgstr "期間一覧"
+
+#: classes/controller/company/settings/terms.php:78
+msgctxt "TEXT"
+msgid "Create Evaluation Term"
+msgstr "評価期間作成"
+
+#: classes/controller/company/settings/terms.php:173
+msgctxt "TEXT"
+msgid "Edit Evaluation Term"
+msgstr "評価期間編集"
+
+#: classes/controller/company/settings/terms.php:198 views/sheetlist/list.php:9
+#: views/sheets/list.php:8
+msgctxt "TEXT"
+msgid "Evaluation Term"
+msgstr "評価期間"
+
+#: classes/controller/company/settings/terms.php:214
+msgctxt "TEXT"
+msgid "Deleted term #"
+msgstr "期間削除"
+
+#: classes/controller/company/settings/terms.php:217
+msgctxt "TEXT"
+msgid "Could not delete term #"
+msgstr "期間が削除できませんでした"
+
+#: classes/controller/errors.php:61 classes/controller/errors.php:66
+msgctxt "TEXT"
+msgid "Access has not been granted"
+msgstr "アクセス権限がありません"
+
+#: classes/controller/errors.php:79 classes/controller/errors.php:84
+msgctxt "TEXT"
+msgid "I could not find the relevant page"
+msgstr "適切なページが見つかりませんでした"
+
+#: classes/controller/errors.php:96 classes/controller/errors.php:101
+msgctxt "TEXT"
+msgid "Illegal access"
+msgstr "不正なアクセス"
+
+#: classes/controller/errors.php:113 classes/controller/errors.php:118
+msgctxt "TEXT"
+msgid "Double posted"
+msgstr "重複送信"
+
+#: classes/controller/login.php:35
+#: modules/compeleader/classes/controller/login.php:30
+#: modules/user/classes/controller/login.php:34
+msgctxt "TEXT"
+msgid "login_error"
+msgstr "ログインエラー"
+
+#: classes/controller/login.php:37
+#: modules/compeleader/classes/controller/login.php:32
+#: modules/user/classes/controller/login.php:36
+msgctxt "TEXT"
+msgid "Title_Login"
+msgstr "ログインタイトル"
+
+#: classes/controller/login.php:59 views/login/index.php:46
+msgctxt "TEXT"
+msgid "Username"
+msgstr "ユーザー名"
+
+#: classes/controller/login.php:61
+#: modules/compeleader/views/changepassword/index.php:16
+#: modules/compeleader/views/login/index.php:19
+#: modules/compeleader/views/managers/confirm.php:75
+#: modules/user/views/login/index.php:19
+#: modules/user/views/mypage/confirm.php:68
+#: modules/user/views/mypage/index.php:69
+#: modules/user/views/mypage/update.php:153
+#: views/admin/employees/confirm.php:71 views/admin/login.php:24
+#: views/login/index.php:53
+msgctxt "TEXT"
+msgid "Password"
+msgstr "パスワード"
+
+#: classes/controller/mypage.php:50
+#: modules/user/classes/controller/mypage.php:32 views/template.php:92
+msgctxt "TEXT"
+msgid "My Profile"
+msgstr "個人情報"
+
+#: classes/controller/mypage.php:79
+#: modules/user/classes/controller/mypage.php:47
+msgctxt "TEXT"
+msgid "My Page"
+msgstr "個人ページ"
+
+#: classes/controller/mypage.php:99
+msgctxt "TEXT"
+msgid "Some fields are missing"
+msgstr "フィールドが足りません"
+
+#: classes/controller/mypage.php:180
+msgctxt "TEXT"
+msgid "My Company"
+msgstr "個人企業"
+
+#: classes/controller/mypage.php:189
+#: modules/compeleader/classes/controller/changepassword.php:27
+#: views/mypage/password.php:4
+msgctxt "TEXT"
+msgid "Change Password"
+msgstr "パスワード変更"
+
+#: classes/controller/mypage.php:214
+msgctxt "TEXT"
+msgid "Fail to update password, please try again"
+msgstr "パスワードアップデートが失敗しましたので、もう一度やって下さい"
+
+#: classes/controller/mypage.php:217
+msgctxt "TEXT"
+msgid "Update password successfully"
+msgstr "パスワードアップデートが成功しました"
+
+#: classes/controller/mypage.php:243
+msgctxt "TEXT"
+msgid "Group added."
+msgstr "グループが追加されました"
+
+#: classes/controller/mypage.php:248
+msgctxt "TEXT"
+msgid "Group could not added."
+msgstr "グループが追加できませんでした"
+
+#: classes/controller/mypage.php:266
+msgctxt "TEXT"
+msgid "Group deleted."
+msgstr "グループが削除されました"
+
+#: classes/controller/mypage.php:270
+msgctxt "TEXT"
+msgid "Group can not deleted."
+msgstr "グループが削除できませんでした"
+
+#: classes/controller/mypage.php:286
+#: modules/compeleader/views/accounts/new.php:12
+#: views/admin/companies/index.php:51
+msgctxt "LABEL"
+msgid "Login Code"
+msgstr "ユーザー名"
+
+#: classes/controller/mypage.php:287
+msgctxt "LABEL"
+msgid "Last Name"
+msgstr "姓"
+
+#: classes/controller/mypage.php:288
+msgctxt "LABEL"
+msgid "First Name"
+msgstr "名"
+
+#: classes/controller/mypage.php:289
+msgctxt "LABEL"
+msgid "Last Name Kana"
+msgstr "姓カナ"
+
+#: classes/controller/mypage.php:290
+msgctxt "LABEL"
+msgid "First Name Kana"
+msgstr ""
+"名\n"
+"カナ"
+
+#: classes/controller/mypage.php:291
+#: modules/compeleader/views/managers/index.php:81
+#: views/admin/employees/index.php:118 views/approvals/index.php:48
+msgctxt "LABEL"
+msgid "Birthday"
+msgstr "生年月日"
+
+#: classes/controller/mypage.php:292
+#: modules/compeleader/views/managers/index.php:90
+msgctxt "LABEL"
+msgid "Gender"
+msgstr "性別"
+
+#: classes/controller/mypage.php:293 views/admin/companies/index.php:146
+msgctxt "LABEL"
+msgid "Tel"
+msgstr "電話番号"
+
+#: classes/controller/mypage.php:294
+msgctxt "LABEL"
+msgid "Mobile Tel"
+msgstr "携帯番号"
+
+#: classes/controller/mypage.php:295
+#: modules/compeleader/classes/controller/login.php:42
+#: modules/compeleader/views/accounts/new.php:34
+#: modules/compeleader/views/login/index.php:9
+#: modules/user/classes/controller/login.php:46
+#: modules/user/views/login/index.php:9
+msgctxt "LABEL"
+msgid "Email"
+msgstr "メール"
+
+#: classes/controller/mypage.php:311
+#: modules/compeleader/classes/controller/changepassword.php:37
+#: modules/compeleader/views/changepassword/index.php:6
+msgctxt "LABEL"
+msgid "Old Password"
+msgstr "旧パスワード"
+
+#: classes/controller/mypage.php:319
+msgctxt "LABEL"
+msgid "New Password"
+msgstr "新パスワード"
+
+#: classes/controller/mypage.php:325
+msgctxt "LABEL"
+msgid "Password Confirm"
+msgstr "パスワード確認"
+
+#: classes/controller/news.php:36
+#: modules/defaults/classes/controller/news.php:34
+msgctxt "TEXT"
+msgid "List News"
+msgstr "情報一覧"
+
+#: classes/controller/news.php:61
+msgctxt "TEXT"
+msgid ":title is created"
+msgstr "これは :title です"
+
+#: classes/controller/news.php:61
+msgid "Congratulation"
+msgstr ""
+
+#: classes/controller/news.php:70
+#: modules/defaults/classes/controller/news.php:67
+msgctxt "TEXT"
+msgid "Create News"
+msgstr "情報作成"
+
+#: classes/controller/news.php:111
+#: modules/defaults/classes/controller/news.php:106
+msgctxt "TEXT"
+msgid "Edit News"
+msgstr "情報編集"
+
+#: classes/controller/news.php:127
+#: modules/defaults/classes/controller/news.php:122 views/template.php:77
+msgctxt "TEXT"
+msgid "News"
+msgstr "情報"
+
+#: classes/controller/news.php:142
+#: modules/defaults/classes/controller/news.php:137
+msgctxt "TEXT"
+msgid "Deleted news #"
+msgstr "情報削除"
+
+#: classes/controller/news.php:144
+#: modules/defaults/classes/controller/news.php:139
+msgctxt "TEXT"
+msgid "Could not delete news #"
+msgstr "情報が削除できませんでした"
+
+#: classes/controller/permissions.php:45 classes/controller/permissions.php:132
+#: classes/controller/permissions.php:179
+#: classes/controller/permissions.php:226
+msgctxt "TEXT"
+msgid "Permission update success"
+msgstr "権限アップデートが成功しました"
+
+#: classes/controller/permissions.php:47 classes/controller/permissions.php:134
+#: classes/controller/permissions.php:181
+#: classes/controller/permissions.php:228
+msgctxt "TEXT"
+msgid "Permission update fail"
+msgstr "権限アップデートが失敗しました"
+
+#: classes/controller/permissions.php:89
+msgctxt "TEXT"
+msgid "Permission settings"
+msgstr "権限設定"
+
+#: classes/controller/permissions.php:101
+msgctxt "TEXT"
+msgid "Default permission settings"
+msgstr "デフォールト権限設定"
+
+#: classes/controller/permissions.php:148
+msgctxt "TEXT"
+msgid "Default user permission settings"
+msgstr "デフォールトユーザー権限設定"
+
+#: classes/controller/permissions.php:195
+msgctxt "TEXT"
+msgid "Default manager permission settings"
+msgstr "デフォールトマネジャー権限設定"
+
+#: classes/controller/permissions.php:242
+msgctxt "TEXT"
+msgid "Default director permission settings"
+msgstr "デフォールトディレクター権限設定"
+
+#: classes/controller/permissions.php:249
+msgctxt "TEXT"
+msgid "Evaluation sheet View"
+msgstr "評価シート閲覧"
+
+#: classes/controller/permissions.php:250
+msgctxt "TEXT"
+msgid "Evaluation sheet Edit"
+msgstr "評価シート編集"
+
+#: classes/controller/permissions.php:251
+msgctxt "TEXT"
+msgid "Evaluation sheet Delete"
+msgstr "評価シート削除"
+
+#: classes/controller/permissions.php:252
+msgctxt "TEXT"
+msgid "Evaluation sheet List"
+msgstr "評価シート一覧"
+
+#: classes/controller/permissions.php:253
+msgctxt "TEXT"
+msgid "Employees Delete"
+msgstr "社員削除"
+
+#: classes/controller/permissions.php:254
+msgctxt "TEXT"
+msgid "Employees List"
+msgstr "社員一覧"
+
+#: classes/controller/permissions.php:255
+msgctxt "TEXT"
+msgid "Employees Basic information View"
+msgstr "社員の基本情報閲覧"
+
+#: classes/controller/permissions.php:256
+msgctxt "TEXT"
+msgid "Employees Basic information Edit"
+msgstr "社員の基本情報編集"
+
+#: classes/controller/permissions.php:257
+msgctxt "TEXT"
+msgid "Employees Sensitive information View"
+msgstr "社員の機密情報閲覧"
+
+#: classes/controller/permissions.php:258
+msgctxt "TEXT"
+msgid "Employees Sensitive information Edit"
+msgstr "社員の機密情報編集"
+
+#: classes/controller/permissions.php:259
+msgctxt "TEXT"
+msgid "Competency Setting"
+msgstr "コンピテンシー設定"
+
+#: classes/controller/permissions.php:260
+msgctxt "TEXT"
+msgid "Division Setting"
+msgstr "部署設定"
+
+#: classes/controller/permissions.php:261
+msgctxt "TEXT"
+msgid "Sheet template Setting"
+msgstr "シートテンプレート設定"
+
+#: classes/controller/permissions.php:262
+msgctxt "TEXT"
+msgid "Company Setting"
+msgstr "企業設定"
+
+#: classes/controller/permissions.php:263
+msgctxt "TEXT"
+msgid "Evaluation Sheet"
+msgstr "評価シート"
+
+#: classes/controller/permissions.php:264 views/mypage/confirm.php:9
+#: views/mypage/index.php:13 views/mypage/update.php:15
+msgctxt "TEXT"
+msgid "Employee Information"
+msgstr "社員情報"
+
+#: classes/controller/permissions.php:265
+msgctxt "TEXT"
+msgid "Other Setting"
+msgstr "その他設定"
+
+#: classes/controller/sheetlist.php:43
+msgctxt "TEXT"
+msgid "Sheet List"
+msgstr "シート一覧"
+
+#: classes/controller/sheetlist.php:110 classes/controller/sheets.php:895
+msgctxt "TEXT"
+msgid "Sheet"
+msgstr "シート"
+
+#: classes/controller/sheets.php:252
+msgctxt "TEXT"
+msgid "My sheet"
+msgstr "自己評価シート"
+
+#: classes/controller/sheets.php:252
+msgctxt "TEXT"
+msgid "Other sheets"
+msgstr "その他シート"
+
+#: classes/controller/sheets.php:271 classes/controller/sheets.php:929
+msgctxt "TEXT"
+msgid "You had submitted this sheet"
+msgstr "シートを提出しました"
+
+#: classes/controller/sheets.php:347 classes/controller/sheets.php:617
+#: classes/controller/sheets.php:718 classes/controller/sheets.php:763
+#: classes/controller/sheets.php:840
+msgctxt "TEXT"
+msgid "Error"
+msgstr "エラー"
+
+#: classes/controller/sheets.php:447
+msgctxt "TEXT"
+msgid "Sheet approved success"
+msgstr "評価シートが承認しました"
+
+#: classes/controller/sheets.php:528
+msgctxt "TEXT"
+msgid "You cannot cancel your approve"
+msgstr ""
+
+#: classes/controller/sheets.php:577
+msgctxt "TEXT"
+msgid "Sheet cancel success"
+msgstr "評価シートがキャンセルされました"
+
+#: classes/controller/sheets.php:681
+msgctxt "TEXT"
+msgid "Sheet declined success"
+msgstr "評価シートが差し戻されました"
+
+#: classes/controller/sheets.php:726
+msgctxt "TEXT"
+msgid "Sheet locked success"
+msgstr "評価シートがロックされました"
+
+#: classes/controller/sheets.php:771
+msgctxt "TEXT"
+msgid "Sheet unlocked success"
+msgstr "評価シートがロック解除されました"
+
+#: classes/controller/sheets.php:987
+msgctxt "TEXT"
+msgid "Setting goals / Employee"
+msgstr "目標設定/社員"
+
+#: classes/controller/sheets.php:1084
+msgctxt "TEXT"
+msgid "Sheet review update success"
+msgstr "評価シートのレビュー・アップデートが成功しました"
+
+#: classes/controller/sheets.php:1311
+msgctxt "TEXT"
+msgid "Review / Employee"
+msgstr "レビュー/社員"
+
+#: classes/controller/templateassign.php:30
+msgctxt "TEXT"
+msgid "Sheet Template For Division"
+msgstr "部署用シートテンプレート"
+
+#: classes/controller/templateassign.php:55
+#: classes/controller/templateassign.php:84
+msgctxt "TEXT"
+msgid "List Employees"
+msgstr "社員一覧"
+
+#: classes/controller/templates.php:33
+msgctxt "TEXT"
+msgid "List Evaluation Sheet Template"
+msgstr "評価シートテンプレート一覧"
+
+#: classes/controller/templates.php:65
+msgctxt "TEXT"
+msgid "Create Evaluation Sheet Template"
+msgstr "評価シートテンプレート作成"
+
+#: classes/controller/templates.php:119
+msgctxt "TEXT"
+msgid "Edit Evaluation Sheet Template"
+msgstr "評価シートテンプレート編集"
+
+#: classes/controller/templates.php:166
+msgctxt "TEXT"
+msgid "Evaluation Sheet Template"
+msgstr "評価シートテンプレート"
+
+#: classes/controller/templates.php:182
+msgctxt "TEXT"
+msgid " copied."
+msgstr "コピーしました"
+
+#: classes/controller/templates.php:185
+msgctxt "TEXT"
+msgid " can not copy."
+msgstr "コピーできませんでした"
+
+#: classes/controller/templates.php:308
+#: classes/ultilities/controllerHelper.php:124
+msgctxt "TEXT"
+msgid "Assigned."
+msgstr "アサインしました"
+
+#: classes/controller/templates.php:311
+#: classes/ultilities/controllerHelper.php:127
+msgctxt "TEXT"
+msgid "Could not assign"
+msgstr "アサインできませんでした"
+
+#: classes/controller/workflowassign.php:34
+msgctxt "TEXT"
+msgid "------Please select term------"
+msgstr "期間を選んでください"
+
+#: classes/controller/workflowassign.php:44
+msgctxt "TEXT"
+msgid "------Please select phase------"
+msgstr "フェーズを選んでください"
+
+#: classes/controller/workflowassign.php:58
+msgctxt "TEXT"
+msgid "Assignments Workflow for division"
+msgstr "部署用ワークフロー配布"
+
+#: classes/controller/workflowassign.php:82
+msgctxt "TEXT"
+msgid "Assignments Workflow for employee sheet"
+msgstr "社員評価シート用ワークフロー配布"
+
+#: classes/controller/workflowassign.php:101
+msgctxt "TEXT"
+msgid "Error when process data from POST"
+msgstr "POSTからのデータ処理の際、エラーが発生する"
+
+#: classes/controller/workflowassign.php:107
+msgctxt "TEXT"
+msgid "Miss data when submit to create data on final step "
+msgstr "最後の段階にデータ作成の際、データの紛失"
+
+#: classes/controller/workflowassign.php:155
+msgctxt "TEXT"
+msgid "Insert data was be completed"
+msgstr "データが追加されました"
+
+#: classes/controller/workflowassign.php:161
+msgctxt "TEXT"
+msgid "Insert data was be failed"
+msgstr "データが追加されませんでした"
+
+#: classes/model/company/grades.php:30 views/company/settings/grades/new.php:11
+#: views/company/settings/grades/view.php:8
+msgctxt "LABEL"
+msgid "Grade Name"
+msgstr "等級名"
+
+#: classes/model/company/grades.php:33
+msgctxt "LABEL"
+msgid "New grade name"
+msgstr ""
+
+#: classes/model/company/grades.php:37 views/company/settings/grades/new.php:15
+#: views/company/settings/grades/view.php:12
+msgctxt "LABEL"
+msgid "Base Salary"
+msgstr "基本給与"
+
+#: classes/model/company/grades.php:44 views/company/settings/grades/new.php:19
+#: views/company/settings/grades/view.php:16
+#: views/company/settings/mbos/view.php:10
+msgctxt "LABEL"
+msgid "Body"
+msgstr "ボディー"
+
+#: classes/model/company/grades.php:49 views/company/settings/grades/new.php:23
+#: views/company/settings/grades/view.php:20
+msgctxt "LABEL"
+msgid "Memo"
+msgstr "メモ"
+
+#: classes/model/evaluation/term.php:119 views/permissions/index.php:14
+msgctxt "TEXT"
+msgid " "
+msgstr ""
+
+#: classes/ultilities/file.php:184
+msgctxt "TEXT"
+msgid "Message from Image upload: "
+msgstr "画像アップロードのメッセージ"
+
+#: config/master.php:6
+msgctxt "TEXT"
+msgid "No"
+msgstr "いいえ"
+
+#: config/master.php:7
+msgctxt "TEXT"
+msgid "Okay"
+msgstr "はい"
+
+#: config/master.php:10
+msgctxt "TEXT"
+msgid "Female"
+msgstr "女性"
+
+#: config/master.php:11
+msgctxt "TEXT"
+msgid "Male"
+msgstr "男性"
+
+#: config/master.php:18
+msgctxt "TEXT"
+msgid "Active"
+msgstr "有効"
+
+#: config/master.php:19
+msgctxt "TEXT"
+msgid "Stop"
+msgstr "停止"
+
+#: config/master.php:22
+msgctxt "TEXT"
+msgid "Atwork"
+msgstr "在職"
+
+#: config/master.php:23
+msgctxt "TEXT"
+msgid "Left"
+msgstr "退職"
+
+#: config/master.php:26
+msgctxt "TEXT"
+msgid "Salary"
+msgstr "給与"
+
+#: config/master.php:27
+msgctxt "TEXT"
+msgid "Bonus"
+msgstr "ボーナス"
+
+#: config/master.php:30
+msgctxt "TEXT"
+msgid "Janpanese"
+msgstr "日本語"
+
+#: config/master.php:31
+msgctxt "TEXT"
+msgid "English"
+msgstr "英語"
+
+#: config/master.php:32
+msgctxt "TEXT"
+msgid "Chinese"
+msgstr "中国語"
+
+#: config/master.php:35
+msgctxt "TEXT"
+msgid "GUEST is available without a period"
+msgstr "GUESTは期間なしで利用可能"
+
+#: config/master.php:36
+msgctxt "TEXT"
+msgid "PAID is paid"
+msgstr "PAIDは支払い済み"
+
+#: config/master.php:37
+msgctxt "TEXT"
+msgid "RESERVED payment prospects"
+msgstr "RESERVEDは支払い見込み"
+
+#: config/master.php:38
+msgctxt "TEXT"
+msgid "STOP contracts stop"
+msgstr "STOPは契約停止"
+
+#: config/master.php:41
+msgctxt "TEXT"
+msgid "Common"
+msgstr "共有"
+
+#: config/master.php:42 views/sheetlist/list.php:10
+#: views/templateassign/finish.php:7 views/templateassign/index.php:19
+#: views/templateassign/preview.php:7 views/templateassign/preview.php:44
+#: views/templates/view.php:17 views/workflowassign/index.php:52
+#: views/workflowassign/preview.php:27 views/workflowassign/preview.php:84
+msgctxt "TEXT"
+msgid "Division"
+msgstr "部署"
+
+#: config/master.php:43
+msgctxt "TEXT"
+msgid "Grade"
+msgstr "グレード"
+
+#: config/master.php:46
+msgctxt "TEXT"
+msgid "evaluation"
+msgstr "評価"
+
+#: config/master.php:47
+msgctxt "TEXT"
+msgid "360degree"
+msgstr "回り評価"
+
+#: config/master.php:50
+msgctxt "TEXT"
+msgid "all"
+msgstr "全て"
+
+#: config/master.php:51
+msgctxt "TEXT"
+msgid "any"
+msgstr "だれでも"
+
+#: modules/compeleader/classes/controller/accounts.php:34
+msgctxt "TEXT"
+msgid "List Accounts"
+msgstr "アカウント一覧"
+
+#: modules/compeleader/classes/controller/accounts.php:67
+msgctxt "TEXT"
+msgid "Create Account"
+msgstr "アカウント作成"
+
+#: modules/compeleader/classes/controller/accounts.php:117
+msgctxt "TEXT"
+msgid "Accounts"
+msgstr "アカウント"
+
+#: modules/compeleader/classes/controller/accounts.php:132
+msgctxt "TEXT"
+msgid "Deleted account #"
+msgstr "アカウント削除#"
+
+#: modules/compeleader/classes/controller/accounts.php:134
+msgctxt "TEXT"
+msgid "Could not delete account #"
+msgstr "アカウントが削除できませんでした"
+
+#: modules/compeleader/classes/controller/assignments.php:51
+#: modules/rights/classes/controller/assignments.php:53
+#: views/template_menu.php:3
+msgctxt "TEXT"
+msgid "Assignments"
+msgstr "配布"
+
+#: modules/compeleader/classes/controller/assignments.php:78
+#: modules/compeleader/classes/controller/assignments.php:80
+#: modules/compeleader/classes/controller/assignments.php:136
+#: modules/rights/classes/controller/assignments.php:81
+#: modules/rights/classes/controller/assignments.php:83
+#: modules/rights/classes/controller/assignments.php:147
+msgctxt "TEXT"
+msgid "Role "
+msgstr "ロール"
+
+#: modules/compeleader/classes/controller/assignments.php:78
+#: modules/rights/classes/controller/assignments.php:81
+msgctxt "TEXT"
+msgid " assigned."
+msgstr "配布しました"
+
+#: modules/compeleader/classes/controller/assignments.php:80
+#: modules/rights/classes/controller/assignments.php:83
+msgctxt "TEXT"
+msgid " could not assigned."
+msgstr "配布できませんでした"
+
+#: modules/compeleader/classes/controller/assignments.php:119
+#: modules/rights/classes/controller/assignments.php:121
+msgctxt "TEXT"
+msgid "Assignments for "
+msgstr "誰かに配布します"
+
+#: modules/compeleader/classes/controller/assignments.php:136
+#: modules/rights/classes/controller/assignments.php:147
+msgctxt "TEXT"
+msgid " revoked."
+msgstr "無効にしました"
+
+#: modules/compeleader/classes/controller/assignments.php:140
+#: modules/rights/classes/controller/assignments.php:151
+msgctxt "TEXT"
+msgid "Could not found role "
+msgstr "ロールを見つけませんでした"
+
+#: modules/compeleader/classes/controller/authitem.php:40
+#: modules/rights/classes/controller/authitem.php:40 views/template_menu.php:5
+msgctxt "TEXT"
+msgid "Roles"
+msgstr "ロール"
+
+#: modules/compeleader/classes/controller/authitem.php:68
+#: modules/rights/classes/controller/authitem.php:70
+msgctxt "TEXT"
+msgid "Create Role"
+msgstr "ロール作成"
+
+#: modules/compeleader/classes/controller/authitem.php:121
+#: modules/compeleader/classes/controller/authitem.php:123
+#: modules/compeleader/classes/controller/authitem.php:183
+msgctxt "TEXT"
+msgid "Child "
+msgstr "子"
+
+#: modules/compeleader/classes/controller/authitem.php:121
+msgctxt "TEXT"
+msgid " added."
+msgstr "追加しました"
+
+#: modules/compeleader/classes/controller/authitem.php:123
+msgctxt "TEXT"
+msgid " could not added."
+msgstr "追加できませんでした"
+
+#: modules/compeleader/classes/controller/authitem.php:148
+#: modules/rights/classes/controller/authitem.php:158
+msgctxt "TEXT"
+msgid "Update Role"
+msgstr "ロールアップデート"
+
+#: modules/compeleader/classes/controller/authitem.php:165
+#: modules/rights/classes/controller/authitem.php:176
+msgctxt "TEXT"
+msgid " deleted."
+msgstr "削除しました"
+
+#: modules/compeleader/classes/controller/authitem.php:169
+#: modules/rights/classes/controller/authitem.php:180
+msgctxt "TEXT"
+msgid " can not deleted."
+msgstr "削除できませんでした"
+
+#: modules/compeleader/classes/controller/authitem.php:183
+msgctxt "TEXT"
+msgid " removed."
+msgstr "取り除きました"
+
+#: modules/compeleader/classes/controller/authitem.php:187
+msgctxt "TEXT"
+msgid "Could not found child "
+msgstr "子見つけませんでした"
+
+#: modules/compeleader/classes/controller/authitem.php:233
+#: modules/rights/classes/controller/authitem.php:256 views/template_menu.php:4
+msgctxt "TEXT"
+msgid "Permissions"
+msgstr "許可"
+
+#: modules/compeleader/classes/controller/authitem.php:322
+#: modules/rights/classes/controller/authitem.php:360
+msgctxt "TEXT"
+msgid "Generate items"
+msgstr "項目の生成"
+
+#: modules/compeleader/classes/controller/changepassword.php:22
+msgctxt "TEXT"
+msgid "Change password success"
+msgstr "パスワード変更が成功しました"
+
+#: modules/compeleader/classes/controller/changepassword.php:25
+msgctxt "TEXT"
+msgid "Cannot change password"
+msgstr "パスワードが変更できません"
+
+#: modules/compeleader/classes/controller/changepassword.php:45
+#: modules/compeleader/views/changepassword/index.php:23
+msgctxt "LABEL"
+msgid "Confirm Password"
+msgstr "パスワード確認"
+
+#: modules/compeleader/classes/controller/groups.php:33
+msgctxt "TEXT"
+msgid "List Groups"
+msgstr "グループ一覧"
+
+#: modules/compeleader/classes/controller/groups.php:65
+msgctxt "TEXT"
+msgid "Create Group"
+msgstr "グループ作成"
+
+#: modules/compeleader/classes/controller/groups.php:100
+msgctxt "TEXT"
+msgid "Edit Group"
+msgstr "グループ編集"
+
+#: modules/compeleader/classes/controller/groups.php:115
+msgctxt "TEXT"
+msgid "Groups"
+msgstr "グループ"
+
+#: modules/compeleader/classes/controller/groups.php:130
+msgctxt "TEXT"
+msgid "Deleted group #"
+msgstr "グループ削除#"
+
+#: modules/compeleader/classes/controller/groups.php:132
+msgctxt "TEXT"
+msgid "Could not delete group #"
+msgstr "グループが削除できませんでした"
+
+#: modules/compeleader/classes/controller/login.php:27
+#: modules/user/classes/controller/login.php:31
+msgctxt "TEXT"
+msgid "Welcome, "
+msgstr "ようこそ"
+
+#: modules/compeleader/classes/controller/managers.php:38
+msgctxt "TEXT"
+msgid "List managers"
+msgstr "マネジャー一覧"
+
+#: modules/compeleader/classes/controller/managers.php:53
+msgctxt "TEXT"
+msgid "Manager"
+msgstr "マネジャー"
+
+#: modules/compeleader/classes/controller/managers.php:71
+msgctxt "TEXT"
+msgid "Create new manager"
+msgstr "マネジャー新規作成"
+
+#: modules/compeleader/classes/controller/managers.php:137
+msgctxt "TEXT"
+msgid "Deleted manager #"
+msgstr "マネジャー削除#"
+
+#: modules/compeleader/classes/controller/managers.php:139
+msgctxt "TEXT"
+msgid "Could not delete manager #"
+msgstr "マネジャーが削除できませんでした"
+
+#: modules/compeleader/views/accounts/index.php:8
+#: modules/compeleader/views/groups/index.php:8
+#: modules/defaults/views/news/index.php:8 views/admin/applications/list.php:8
+#: views/admin/companies/list.php:36 views/admin/companies/view.php:6
+#: views/admin/divisions/list.php:8 views/admin/divisions/view.php:4
+#: views/admin/employees/list.php:5 views/admin/uploader/list.php:17
+#: views/company/settings/grades/list.php:5
+#: views/company/settings/masterterm/index.php:8
+#: views/company/settings/ratings/index.php:15
+#: views/company/settings/ratings/new_absolute.php:56
+#: views/company/settings/ratings/new_relative.php:29
+#: views/mypage/company.php:5 views/sheetlist/list.php:7
+#: views/sheets/list.php:6 views/templates/index.php:8
+#: views/templates/view.php:31 views/templates/view.php:60
+msgctxt "TEXT"
+msgid "ID"
+msgstr "ID"
+
+#: modules/compeleader/views/accounts/index.php:9
+msgctxt "TEXT"
+msgid "Login ID"
+msgstr "ログインID"
+
+#: modules/compeleader/views/accounts/index.php:10
+#: modules/compeleader/views/managers/confirm.php:31
+#: modules/user/views/mypage/confirm.php:22
+#: modules/user/views/mypage/index.php:22 views/admin/divisions/list.php:9
+#: views/admin/divisions/save.php:19 views/admin/divisions/view.php:7
+#: views/admin/employees/confirm.php:27 views/admin/employees/list.php:7
+#: views/admin/uploader/list.php:18 views/company/settings/grades/list.php:6
+#: views/company/settings/mbos/difficulties.php:9
+#: views/company/settings/ratings/index.php:16
+#: views/company/settings/ratings/new_absolute.php:60
+#: views/company/settings/ratings/new_relative.php:33
+#: views/templates/index.php:9 views/templates/view.php:5
+msgctxt "TEXT"
+msgid "Name"
+msgstr "名前"
+
+#: modules/compeleader/views/accounts/index.php:11
+#: modules/compeleader/views/login/index.php:10
+#: modules/user/views/login/index.php:10 views/mypage/confirm.php:71
+#: views/mypage/update.php:127 views/mypage/update.php:129
+msgctxt "TEXT"
+msgid "Email"
+msgstr "メール"
+
+#: modules/compeleader/views/accounts/index.php:23
+#: modules/compeleader/views/groups/index.php:19
+#: modules/compeleader/views/managers/list.php:31
+#: modules/defaults/views/news/index.php:27
+#: views/admin/applications/list.php:32 views/admin/companies/list.php:65
+#: views/admin/divisions/list.php:22 views/admin/employees/list.php:39
+#: views/approvals/list.php:29 views/company/settings/competencies/index.php:41
+#: views/company/settings/grades/list.php:18
+#: views/company/settings/masterterm/index.php:23
+#: views/company/settings/mbos/index.php:21
+#: views/company/settings/terms/index.php:29 views/sheetlist/list.php:32
+#: views/sheets/list.php:64 views/templates/index.php:22
+msgctxt "LINK"
+msgid "View"
+msgstr "見る"
+
+#: modules/compeleader/views/accounts/index.php:24
+#: modules/compeleader/views/accounts/view.php:23
+#: modules/compeleader/views/groups/index.php:20
+#: modules/compeleader/views/groups/view.php:17
+#: modules/compeleader/views/managers/list.php:32
+#: modules/compeleader/views/managers/view.php:118
+#: modules/defaults/views/news/index.php:28
+#: modules/defaults/views/news/view.php:35 views/admin/companies/list.php:66
+#: views/admin/companies/view.php:201 views/admin/divisions/list.php:23
+#: views/admin/divisions/view.php:10 views/admin/employees/list.php:44
+#: views/admin/employees/view.php:328
+#: views/company/settings/competencies/index.php:42
+#: views/company/settings/competencies/view.php:23
+#: views/company/settings/grades/list.php:19
+#: views/company/settings/grades/view.php:27
+#: views/company/settings/masterterm/index.php:24
+#: views/company/settings/masterterm/view.php:23
+#: views/company/settings/mbos/index.php:22
+#: views/company/settings/mbos/view.php:46
+#: views/company/settings/terms/index.php:30
+#: views/company/settings/terms/view.php:22 views/news/view.php:43
+#: views/sheets/list.php:43 views/sheets/view.php:48
+#: views/templates/index.php:23 views/templates/view.php:120
+msgctxt "LINK"
+msgid "Edit"
+msgstr "編集"
+
+#: modules/compeleader/views/accounts/index.php:25
+#: modules/compeleader/views/authitem/roles.php:25
+#: modules/compeleader/views/groups/index.php:21
+#: modules/compeleader/views/managers/list.php:33
+#: modules/defaults/views/news/index.php:29
+#: modules/rights/views/authitem/roles.php:24 views/admin/companies/list.php:67
+#: views/admin/divisions/list.php:24 views/admin/employees/list.php:49
+#: views/admin/uploader/list.php:35
+#: views/company/settings/competencies/achievements.php:25
+#: views/company/settings/competencies/index.php:43
+#: views/company/settings/competencies/labels.php:21
+#: views/company/settings/grades/list.php:20
+#: views/company/settings/masterterm/index.php:25
+#: views/company/settings/mbos/difficulties.php:23
+#: views/company/settings/mbos/index.php:23
+#: views/company/settings/mbos/labels.php:23
+#: views/company/settings/ratings/layouts/absolute_row.php:20
+#: views/company/settings/ratings/layouts/relative_row.php:17
+#: views/company/settings/terms/index.php:31 views/news/view.php:45
+#: views/templates/index.php:24
+msgctxt "LINK"
+msgid "Delete"
+msgstr "削除"
+
+#: modules/compeleader/views/accounts/index.php:38
+msgctxt "LINK"
+msgid "Add account"
+msgstr "アカウント追加"
+
+#: modules/compeleader/views/accounts/new.php:28
+#: modules/compeleader/views/authitem/index.php:12
+#: modules/compeleader/views/groups/new.php:12
+#: modules/rights/views/authitem/index.php:12 views/templates/new.php:13
+msgctxt "LABEL"
+msgid "Name"
+msgstr "名前"
+
+#: modules/compeleader/views/accounts/new.php:56
+msgctxt "TEXT"
+msgid "off"
+msgstr "off"
+
+#: modules/compeleader/views/accounts/new.php:69
+#: modules/compeleader/views/authitem/index.php:30
+#: modules/compeleader/views/groups/new.php:21
+#: modules/compeleader/views/managers/index.php:196
+#: modules/rights/views/authitem/index.php:30
+#: modules/rights/views/authitem/index.php:65
+#: views/admin/companies/index.php:599 views/admin/divisions/index.php:22
+#: views/admin/employees/index.php:264 views/application/update.php:57
+#: views/approvals/index.php:145
+#: views/company/settings/competencies/achievement_new.php:19
+#: views/company/settings/competencies/label_new.php:10
+#: views/company/settings/competencies/new.php:35
+#: views/company/settings/competencies/new_tsv.php:15
+#: views/company/settings/masterterm/new.php:68
+#: views/company/settings/mbos/difficulty_new.php:10
+#: views/company/settings/mbos/edit.php:29
+#: views/company/settings/mbos/label_new.php:10
+#: views/company/settings/mbos/new.php:29
+#: views/company/settings/ratings/new_absolute.php:112
+#: views/company/settings/ratings/new_relative.php:85
+#: views/company/settings/terms/edit.php:97
+#: views/company/settings/terms/new.php:93 views/news/new.php:76
+#: views/permissions/director.php:48 views/permissions/index.php:63
+#: views/permissions/manager.php:48 views/permissions/user.php:48
+msgctxt "BTN"
+msgid "Save"
+msgstr "保存"
+
+#: modules/compeleader/views/accounts/new.php:70
+#: modules/compeleader/views/authitem/index.php:31
+#: modules/compeleader/views/groups/new.php:22
+#: modules/defaults/views/news/new.php:77
+#: modules/rights/views/authitem/index.php:31
+#: views/company/settings/competencies/achievement_new.php:20
+#: views/company/settings/competencies/label_new.php:11
+#: views/company/settings/competencies/new.php:36
+#: views/company/settings/competencies/new_tsv.php:16
+#: views/company/settings/grades/edit.php:38
+#: views/company/settings/mbos/difficulty_new.php:11
+#: views/company/settings/mbos/edit.php:30
+#: views/company/settings/mbos/label_new.php:11
+#: views/company/settings/mbos/new.php:30 views/permissions/director.php:49
+#: views/permissions/index.php:64 views/permissions/manager.php:49
+#: views/permissions/user.php:49 views/sheets/list.php:62
+#: views/sheets/review.php:252
+msgctxt "LINK"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: modules/compeleader/views/accounts/view.php:4
+msgctxt "LABEL"
+msgid "Login ID:"
+msgstr "ログインID"
+
+#: modules/compeleader/views/accounts/view.php:10
+msgctxt "LABEL"
+msgid "Name:"
+msgstr "名前"
+
+#: modules/compeleader/views/accounts/view.php:16
+msgctxt "LABEL"
+msgid "Email:"
+msgstr "メール"
+
+#: modules/compeleader/views/accounts/view.php:24
+#: modules/compeleader/views/groups/view.php:18
+#: modules/compeleader/views/managers/index.php:201
+#: modules/compeleader/views/managers/view.php:119
+#: modules/defaults/views/news/view.php:36 views/admin/companies/index.php:600
+#: views/admin/companies/view.php:202 views/admin/divisions/index.php:27
+#: views/admin/divisions/view.php:11 views/admin/employees/index.php:276
+#: views/admin/employees/view.php:326 views/application/thanks.php:10
+#: views/approvals/index.php:149 views/approvals/view.php:41
+#: views/company/settings/competencies/view.php:24
+#: views/company/settings/grades/new.php:31
+#: views/company/settings/grades/view.php:28
+#: views/company/settings/masterterm/view.php:24
+#: views/company/settings/mbos/view.php:47
+#: views/company/settings/ratings/new_absolute.php:113
+#: views/company/settings/ratings/new_relative.php:86
+#: views/company/settings/terms/edit.php:98
+#: views/company/settings/terms/new.php:94
+#: views/company/settings/terms/view.php:23 views/mypage/thanks.php:10
+#: views/news/view.php:44 views/sheetlist/view.php:47
+#: views/sheets/thanks.php:10 views/sheets/update.php:126
+#: views/sheets/view.php:70 views/templates/view.php:122
+msgctxt "LINK"
+msgid "Back"
+msgstr "戻る"
+
+#: modules/compeleader/views/assignments/index.php:7
+#: modules/rights/views/assignments/index.php:6
+msgctxt "TEXT"
+msgid "User"
+msgstr "ユーザー"
+
+#: modules/compeleader/views/assignments/index.php:8
+#: modules/compeleader/views/assignments/user.php:10
+#: modules/compeleader/views/authitem/roles.php:11
+#: modules/rights/views/assignments/index.php:7
+#: modules/rights/views/assignments/user.php:9
+#: modules/rights/views/authitem/roles.php:10
+msgctxt "TEXT"
+msgid "Role"
+msgstr "ロール"
+
+#: modules/compeleader/views/assignments/index.php:22
+#: modules/rights/views/assignments/index.php:21
+#: modules/rights/views/authitem/roles.php:32
+msgctxt "TEXT"
+msgid "No users."
+msgstr "ユーザーがありません"
+
+#: modules/compeleader/views/assignments/user.php:11
+#: views/company/settings/grades/list.php:8
+msgctxt "TEXT"
+msgid "Action"
+msgstr "行動"
+
+#: modules/compeleader/views/assignments/user.php:18
+#: modules/compeleader/views/authitem/permissions.php:23
+#: modules/rights/views/assignments/user.php:17
+#: modules/rights/views/authitem/permissions.php:23
+msgctxt "LINK"
+msgid "Revoke"
+msgstr "無効にします"
+
+#: modules/compeleader/views/assignments/user.php:26
+#: modules/rights/views/assignments/user.php:25
+msgctxt "TEXT"
+msgid "Assign item"
+msgstr "項目配布"
+
+#: modules/compeleader/views/assignments/user.php:32
+#: modules/rights/views/assignments/user.php:31
+msgctxt "BTN"
+msgid "Assign"
+msgstr "配布"
+
+#: modules/compeleader/views/authitem/generate.php:5
+#: modules/rights/views/authitem/generate.php:4
+msgctxt "TEXT"
+msgid "Please select which items you wish to generate."
+msgstr "生成したい項目を選んでください"
+
+#: modules/compeleader/views/authitem/generate.php:102
+#: modules/rights/views/authitem/generate.php:101
+msgctxt "LINK"
+msgid "Select all"
+msgstr "全てを選ぶ"
+
+#: modules/compeleader/views/authitem/generate.php:106
+#: modules/rights/views/authitem/generate.php:107
+msgctxt "LINK"
+msgid "Select none"
+msgstr "何も選びません"
+
+#: modules/compeleader/views/authitem/generate.php:113
+#: modules/rights/views/authitem/generate.php:116
+msgctxt "BTN"
+msgid "Generate"
+msgstr "生成"
+
+#: modules/compeleader/views/authitem/index.php:21
+#: modules/rights/views/authitem/index.php:21
+#: views/company/settings/competencies/new.php:26
+#: views/company/settings/competencies/view.php:16
+msgctxt "LABEL"
+msgid "Description"
+msgstr "説明"
+
+#: modules/compeleader/views/authitem/index.php:55
+#: modules/rights/views/authitem/index.php:55
+msgctxt "TEXT"
+msgid "This item has no children."
+msgstr "この項目は子項目がありません"
+
+#: modules/compeleader/views/authitem/index.php:65
+msgctxt "BTN"
+msgid "Add"
+msgstr "追加"
+
+#: modules/compeleader/views/authitem/permissions.php:4
+#: modules/rights/views/authitem/permissions.php:4
+msgctxt "LINK"
+msgid "Generate items for controller actions"
+msgstr "行動コントローラーの項目生成"
+
+#: modules/compeleader/views/authitem/permissions.php:10
+msgid "Item"
+msgstr "項目"
+
+#: modules/compeleader/views/authitem/permissions.php:25
+#: modules/rights/views/authitem/permissions.php:25
+msgctxt "LINK"
+msgid "Assign"
+msgstr "配布"
+
+#: modules/compeleader/views/authitem/roles.php:2
+#: modules/rights/views/authitem/roles.php:1
+msgctxt "LINK"
+msgid "Create a new role"
+msgstr "新ロール作成"
+
+#: modules/compeleader/views/authitem/roles.php:12
+#: modules/rights/views/authitem/roles.php:11
+#: views/company/settings/competencies/achievements.php:11
+#: views/company/settings/competencies/index.php:28
+msgctxt "TEXT"
+msgid "Description"
+msgstr "説明"
+
+#: modules/compeleader/views/authitem/roles.php:33
+msgctxt "TEXT"
+msgid "No roles."
+msgstr "ロールがありません"
+
+#: modules/compeleader/views/changepassword/index.php:7
+#: views/mypage/password.php:13 views/mypage/password.php:15
+msgctxt "TEXT"
+msgid "Old Password"
+msgstr "旧パスワード"
+
+#: modules/compeleader/views/changepassword/index.php:24
+msgctxt "TEXT"
+msgid "Confirm Password"
+msgstr "パスワード確認"
+
+#: modules/compeleader/views/changepassword/index.php:32
+msgctxt "BTN"
+msgid "Submit"
+msgstr "提出"
+
+#: modules/compeleader/views/groups/index.php:9
+msgctxt "TEXT"
+msgid "Group Name"
+msgstr "グループ名"
+
+#: modules/compeleader/views/groups/index.php:21
+#: modules/compeleader/views/managers/list.php:33
+#: views/admin/companies/list.php:67 views/admin/divisions/list.php:24
+#: views/admin/employees/list.php:49 views/admin/uploader/list.php:35
+#: views/company/settings/competencies/achievements.php:25
+#: views/company/settings/competencies/index.php:43
+#: views/company/settings/competencies/labels.php:21
+#: views/company/settings/grades/list.php:20
+#: views/company/settings/masterterm/index.php:25
+#: views/company/settings/mbos/difficulties.php:23
+#: views/company/settings/mbos/index.php:23
+#: views/company/settings/mbos/labels.php:23
+#: views/company/settings/terms/index.php:31 views/news/view.php:45
+#: views/templates/view.php:121
+msgctxt "TEXT"
+msgid "Are you sure?"
+msgstr "確信ですか？"
+
+#: modules/compeleader/views/groups/index.php:31
+#: modules/defaults/views/news/index.php:39
+msgctxt "TEXT"
+msgid "No news."
+msgstr "ニュースがありません"
+
+#: modules/compeleader/views/groups/index.php:34
+msgctxt "LINK"
+msgid "Add group"
+msgstr "グループ追加"
+
+#: modules/compeleader/views/groups/view.php:4
+msgctxt "LINK"
+msgid "Group ID:"
+msgstr "グループID"
+
+#: modules/compeleader/views/groups/view.php:10
+msgctxt "LINK"
+msgid "Name:"
+msgstr "名"
+
+#: modules/compeleader/views/login/index.php:13
+#: modules/user/views/login/index.php:13 views/admin/login.php:18
+msgctxt "TEXT"
+msgid "You must provide a username or email"
+msgstr "ユーザー名またメールアドレスを入力する必要があります"
+
+#: modules/compeleader/views/login/index.php:22
+#: modules/user/views/login/index.php:22 views/admin/login.php:27
+msgctxt "TEXT"
+msgid ":label cannot be blank"
+msgstr ":label の入力は必須です"
+
+#: modules/compeleader/views/login/index.php:27
+#: modules/user/views/login/index.php:27 views/admin/login.php:32
+#: views/login/index.php:59
+msgctxt "BTN"
+msgid "Login"
+msgstr "ログイン"
+
+#: modules/compeleader/views/managers/confirm.php:9
+#: modules/user/views/mypage/confirm.php:9 views/admin/companies/confirm.php:20
+#: views/admin/divisions/save.php:9 views/admin/employees/confirm.php:9
+#: views/approvals/confirm.php:9
+msgctxt "TEXT"
+msgid "Confirmation of user information"
+msgstr "ユーザー情報の確認"
+
+#: modules/compeleader/views/managers/confirm.php:19
+#: modules/user/views/mypage/confirm.php:18
+#: modules/user/views/mypage/index.php:18
+#: modules/user/views/mypage/update.php:18 views/admin/employees/confirm.php:19
+#: views/admin/employees/list.php:6
+msgctxt "TEXT"
+msgid "Nickname"
+msgstr "ニックネーム"
+
+#: modules/compeleader/views/managers/confirm.php:27
+#: modules/compeleader/views/managers/index.php:47
+#: views/admin/employees/confirm.php:23
+msgctxt "TEXT"
+msgid "company_employee_no"
+msgstr "社員番号"
+
+#: modules/compeleader/views/managers/confirm.php:35
+#: modules/user/views/mypage/confirm.php:26
+#: modules/user/views/mypage/index.php:26
+#: modules/user/views/mypage/update.php:44 views/admin/employees/confirm.php:31
+#: views/admin/employees/list.php:8
+msgctxt "TEXT"
+msgid "Phonetic"
+msgstr "フリガナ"
+
+#: modules/compeleader/views/managers/confirm.php:39
+#: modules/user/views/mypage/confirm.php:30
+#: modules/user/views/mypage/index.php:30
+#: modules/user/views/mypage/update.php:60 views/admin/employees/confirm.php:35
+#: views/admin/employees/list.php:9 views/mypage/confirm.php:63
+#: views/mypage/index.php:43 views/mypage/update.php:99
+#: views/mypage/update.php:101
+msgctxt "TEXT"
+msgid "Birthday"
+msgstr "生年月日"
+
+#: modules/compeleader/views/managers/confirm.php:43
+#: modules/user/views/mypage/confirm.php:34
+#: modules/user/views/mypage/index.php:34
+#: modules/user/views/mypage/update.php:71 views/mypage/confirm.php:67
+#: views/mypage/update.php:110
+msgctxt "TEXT"
+msgid "Gender"
+msgstr "性別"
+
+#: modules/compeleader/views/managers/confirm.php:47
+#: modules/user/views/mypage/confirm.php:56
+#: modules/user/views/mypage/index.php:57
+#: modules/user/views/mypage/update.php:120
+#: views/admin/companies/confirm.php:60 views/admin/companies/view.php:38
+#: views/admin/employees/confirm.php:43 views/admin/employees/list.php:11
+msgctxt "TEXT"
+msgid "Phone number"
+msgstr "電話番号"
+
+#: modules/compeleader/views/managers/confirm.php:51
+#: modules/user/views/mypage/confirm.php:60
+#: modules/user/views/mypage/index.php:61
+#: modules/user/views/mypage/update.php:131
+#: views/admin/employees/confirm.php:47
+msgctxt "TEXT"
+msgid "Telephone number (mobile)"
+msgstr "携帯番号"
+
+#: modules/compeleader/views/managers/confirm.php:55
+#: modules/user/views/mypage/confirm.php:64
+#: modules/user/views/mypage/index.php:65
+#: modules/user/views/mypage/update.php:142
+#: views/admin/employees/confirm.php:51 views/admin/employees/list.php:12
+msgctxt "TEXT"
+msgid "Mail address"
+msgstr "メールアドレス"
+
+#: modules/compeleader/views/managers/confirm.php:59
+#: views/admin/companies/confirm.php:104 views/admin/companies/list.php:42
+#: views/admin/companies/view.php:82 views/admin/employees/confirm.php:55
+msgctxt "TEXT"
+msgid "account_status"
+msgstr "アカウントステータス"
+
+#: modules/compeleader/views/managers/confirm.php:63
+#: views/admin/employees/confirm.php:59
+msgctxt "TEXT"
+msgid "working_status"
+msgstr "事業状態"
+
+#: modules/compeleader/views/managers/confirm.php:67
+#: modules/compeleader/views/managers/index.php:160
+#: views/admin/employees/confirm.php:63
+msgctxt "TEXT"
+msgid "working_start"
+msgstr "事業開始"
+
+#: modules/compeleader/views/managers/confirm.php:71
+#: modules/compeleader/views/managers/index.php:169
+#: views/admin/employees/confirm.php:67
+msgctxt "TEXT"
+msgid "working_end"
+msgstr "事業終了"
+
+#: modules/compeleader/views/managers/confirm.php:79
+#: views/admin/employees/confirm.php:75
+msgctxt "TEXT"
+msgid "Administrator Note"
+msgstr "管理者メモ"
+
+#: modules/compeleader/views/managers/confirm.php:84
+#: modules/user/views/mypage/confirm.php:72
+#: modules/user/views/mypage/index.php:73
+#: modules/user/views/mypage/update.php:164
+#: views/admin/employees/confirm.php:80
+msgctxt "TEXT"
+msgid "Last login time"
+msgstr "最終ログインタイム"
+
+#: modules/compeleader/views/managers/confirm.php:91
+#: views/admin/employees/confirm.php:87
+msgctxt "TEXT"
+msgid "Register"
+msgstr "登録"
+
+#: modules/compeleader/views/managers/confirm.php:98
+#: modules/user/views/mypage/update.php:177
+#: views/admin/applications/list.php:14 views/admin/companies/confirm.php:215
+#: views/admin/employees/confirm.php:94 views/approvals/list.php:13
+#: views/approvals/view.php:24
+msgctxt "TEXT"
+msgid "Registered Date"
+msgstr "登録日"
+
+#: modules/compeleader/views/managers/confirm.php:104
+#: modules/user/views/mypage/update.php:183
+msgctxt "TEXT"
+msgid "Date Modified"
+msgstr "日付修正"
+
+#: modules/compeleader/views/managers/index.php:27 views/approvals/index.php:10
+msgctxt "LABEL"
+msgid "Nickname"
+msgstr "ニックネーム"
+
+#: modules/compeleader/views/managers/index.php:29
+msgctxt "TEXT"
+msgid "manager name"
+msgstr "マネジャー名"
+
+#: modules/compeleader/views/managers/index.php:37
+#: views/company/settings/competencies/achievement_new.php:5
+#: views/company/settings/competencies/new.php:12
+#: views/company/settings/competencies/new_tsv.php:5
+#: views/company/settings/competencies/view.php:4 views/login/index.php:37
+msgctxt "LABEL"
+msgid "Company"
+msgstr "企業"
+
+#: modules/compeleader/views/managers/index.php:46
+msgctxt "LABEL"
+msgid "company_employee_no"
+msgstr "社員番号"
+
+#: modules/compeleader/views/managers/index.php:55
+#: views/admin/divisions/index.php:11 views/approvals/index.php:20
+msgctxt "LABEL"
+msgid "Given names"
+msgstr "氏名"
+
+#: modules/compeleader/views/managers/index.php:56
+#: modules/user/views/mypage/update.php:31 views/approvals/index.php:22
+msgctxt "TEXT"
+msgid "last_name"
+msgstr "姓"
+
+#: modules/compeleader/views/managers/index.php:57
+#: modules/user/views/mypage/update.php:32 views/approvals/index.php:23
+msgctxt "TEXT"
+msgid "first_name"
+msgstr "名"
+
+#: modules/compeleader/views/managers/index.php:68 views/approvals/index.php:34
+msgctxt "LABEL"
+msgid "Phonetic"
+msgstr "フリガナ"
+
+#: modules/compeleader/views/managers/index.php:69
+#: modules/user/views/mypage/update.php:47 views/approvals/index.php:36
+msgctxt "TEXT"
+msgid "last_name_kana"
+msgstr "姓カナ"
+
+#: modules/compeleader/views/managers/index.php:70
+#: modules/user/views/mypage/update.php:48 views/approvals/index.php:37
+msgctxt "TEXT"
+msgid "first_name_kana"
+msgstr "名カナ"
+
+#: modules/compeleader/views/managers/index.php:82
+#: modules/user/views/mypage/update.php:62 views/approvals/index.php:49
+msgctxt "TEXT"
+msgid "birthday"
+msgstr "生年月日"
+
+#: modules/compeleader/views/managers/index.php:104
+#: views/admin/employees/index.php:141 views/admin/employees/view.php:36
+#: views/approvals/index.php:99 views/mypage/index.php:42
+msgctxt "LABEL"
+msgid "Phone number"
+msgstr "電話番号"
+
+#: modules/compeleader/views/managers/index.php:105
+#: modules/user/views/mypage/update.php:122 views/admin/companies/list.php:39
+#: views/approvals/index.php:100
+msgctxt "TEXT"
+msgid "tel"
+msgstr "電話番号"
+
+#: modules/compeleader/views/managers/index.php:113
+#: views/admin/employees/index.php:150 views/approvals/index.php:108
+msgctxt "LABEL"
+msgid "Telephone number (mobile)"
+msgstr "携帯番号"
+
+#: modules/compeleader/views/managers/index.php:114
+#: modules/user/views/mypage/update.php:133 views/approvals/index.php:109
+msgctxt "TEXT"
+msgid "mobile_tel"
+msgstr "携帯番号"
+
+#: modules/compeleader/views/managers/index.php:122
+#: views/admin/employees/index.php:159
+msgctxt "LABEL"
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: modules/compeleader/views/managers/index.php:123
+#: modules/user/views/mypage/update.php:144 views/approvals/index.php:118
+msgctxt "TEXT"
+msgid "email"
+msgstr "メール"
+
+#: modules/compeleader/views/managers/index.php:131
+msgctxt "LABEL"
+msgid "account_status"
+msgstr "アカウントステータス"
+
+#: modules/compeleader/views/managers/index.php:145
+msgctxt "LABEL"
+msgid "working_status"
+msgstr "事業状態"
+
+#: modules/compeleader/views/managers/index.php:159
+msgctxt "LABEL"
+msgid "working_start"
+msgstr "事業開始"
+
+#: modules/compeleader/views/managers/index.php:168
+msgctxt "LABEL"
+msgid "working_end"
+msgstr "事業終了"
+
+#: modules/compeleader/views/managers/index.php:178
+#: modules/user/views/mypage/update.php:155 views/admin/employees/index.php:253
+#: views/approvals/index.php:127
+msgctxt "TEXT"
+msgid "password"
+msgstr "パスワード"
+
+#: modules/compeleader/views/managers/index.php:186
+msgctxt "LABEL"
+msgid "Administrator memo"
+msgstr "管理者メモ"
+
+#: modules/compeleader/views/managers/list.php:44
+msgctxt "TEXT"
+msgid "No managers."
+msgstr "マネジャーがいません"
+
+#: modules/compeleader/views/managers/list.php:48
+msgctxt "LINK"
+msgid "Add manager"
+msgstr "マネジャー追加"
+
+#: modules/compeleader/views/managers/thanks.php:4
+#: modules/user/views/mypage/thanks.php:4 views/admin/companies/thanks.php:4
+#: views/admin/employees/thanks.php:4 views/approvals/thanks.php:4
+msgctxt "TEXT"
+msgid "Registration completion of user information"
+msgstr "ユーザ情報の登録完了"
+
+#: modules/compeleader/views/managers/thanks.php:7
+#: modules/user/views/mypage/thanks.php:7 views/admin/companies/thanks.php:7
+#: views/admin/employees/thanks.php:7 views/approvals/thanks.php:7
+msgctxt "TEXT"
+msgid "Registration of user information has been completed."
+msgstr "ユーザ情報の登録が完了しました"
+
+#: modules/compeleader/views/managers/thanks.php:10
+#: views/admin/companies/thanks.php:10 views/admin/employees/thanks.php:10
+msgctxt "LINK"
+msgid "Go back to the list"
+msgstr "一覧に戻る"
+
+#: modules/compeleader/views/managers/view.php:1
+msgctxt "TEXT"
+msgid "Viewing Manager #"
+msgstr "マネジャー閲覧#"
+
+#: modules/compeleader/views/managers/view.php:6
+msgctxt "LABEL"
+msgid "ID:"
+msgstr "ID"
+
+#: modules/compeleader/views/managers/view.php:12
+#: views/admin/employees/view.php:94 views/mypage/index.php:57
+msgctxt "LABEL"
+msgid "Nickname:"
+msgstr "ニックネーム"
+
+#: modules/compeleader/views/managers/view.php:18
+msgctxt "LABEL"
+msgid "Company Name:"
+msgstr "企業名"
+
+#: modules/compeleader/views/managers/view.php:24
+msgctxt "LABEL"
+msgid "Company Employee No:"
+msgstr "社員番号"
+
+#: modules/compeleader/views/managers/view.php:30
+msgctxt "LABEL"
+msgid "Full Name:"
+msgstr "フールネーム"
+
+#: modules/compeleader/views/managers/view.php:36
+msgctxt "LABEL"
+msgid "Phonetic:"
+msgstr "発音"
+
+#: modules/compeleader/views/managers/view.php:42
+msgctxt "LABEL"
+msgid "Birthday:"
+msgstr "生年月日"
+
+#: modules/compeleader/views/managers/view.php:48
+msgctxt "LABEL"
+msgid "Gender:"
+msgstr "性別"
+
+#: modules/compeleader/views/managers/view.php:54
+msgctxt "LABEL"
+msgid "Phone number:"
+msgstr "電話番号"
+
+#: modules/compeleader/views/managers/view.php:60
+msgctxt "LABEL"
+msgid "Telephone number (mobile):"
+msgstr "電話番号（携帯）"
+
+#: modules/compeleader/views/managers/view.php:68
+#: views/admin/employees/view.php:35 views/mypage/index.php:41
+msgctxt "LABEL"
+msgid "Email address:"
+msgstr "メールアドレス"
+
+#: modules/compeleader/views/managers/view.php:74
+msgctxt "LABEL"
+msgid "Account Status:"
+msgstr "アカウントステータス"
+
+#: modules/compeleader/views/managers/view.php:80
+msgctxt "LABEL"
+msgid "Working Status:"
+msgstr "事業ステータス"
+
+#: modules/compeleader/views/managers/view.php:86
+msgctxt "LABEL"
+msgid "Working Start:"
+msgstr "事業開始"
+
+#: modules/compeleader/views/managers/view.php:92
+msgctxt "LABEL"
+msgid "Working End:"
+msgstr "事業終了"
+
+#: modules/compeleader/views/managers/view.php:98
+msgctxt "LABEL"
+msgid "Administrator Note:"
+msgstr "管理者メモ"
+
+#: modules/compeleader/views/managers/view.php:107
+msgctxt "LABEL"
+msgid "Last login time:"
+msgstr "最後のログインタイム"
+
+#: modules/compeleader/views/rights_menu.php:3
+#: modules/rights/views/template1.php:70
+msgctxt "LINK"
+msgid "Assignments"
+msgstr "配布"
+
+#: modules/compeleader/views/rights_menu.php:4
+#: modules/rights/views/template1.php:71
+msgctxt "LINK"
+msgid "Permissions"
+msgstr "権限"
+
+#: modules/compeleader/views/rights_menu.php:5
+#: modules/rights/views/template1.php:72
+msgctxt "LINK"
+msgid "Roles"
+msgstr "ロール"
+
+#: modules/compeleader/views/template.php:37
+#: modules/rights/views/template1.php:36
+msgctxt "LINK"
+msgid "My Site"
+msgstr "自己サイト"
+
+#: modules/compeleader/views/template.php:45
+#: modules/defaults/views/template.php:56 modules/rights/views/template1.php:56
+#: modules/user/views/template.php:52 views/admin/template.php:49
+#: views/template.php:55
+msgctxt "LINK"
+msgid "Logout"
+msgstr "ログアウト"
+
+#: modules/defaults/classes/controller/base.php:13
+msgctxt "TEXT"
+msgid "template"
+msgstr "テンプレート"
+
+#: modules/defaults/views/news/index.php:9
+#: views/company/settings/competencies/achievements.php:10
+#: views/company/settings/competencies/index.php:27
+#: views/company/settings/masterterm/index.php:9
+#: views/company/settings/masterterm/view.php:4
+#: views/company/settings/mbos/index.php:9
+#: views/company/settings/mbos/view.php:15
+#: views/company/settings/terms/edit.php:30
+#: views/company/settings/terms/new.php:26 views/sheetlist/view.php:77
+#: views/sheetlist/view.php:104 views/sheets/edit.php:99
+#: views/sheets/review.php:121 views/sheets/review.php:237
+#: views/sheets/update.php:64 views/sheets/update.php:101
+#: views/sheets/view.php:100 views/sheets/view.php:127
+#: views/templates/edit.php:83 views/templates/edit.php:129
+#: views/templates/new.php:61 views/templates/new.php:79
+#: views/templates/view.php:61 views/templates/view.php:99
+msgctxt "TEXT"
+msgid "Title"
+msgstr "タイトル"
+
+#: modules/defaults/views/news/index.php:10
+msgctxt "TEXT"
+msgid "Summary"
+msgstr "概要"
+
+#: modules/defaults/views/news/index.php:11 views/sheetlist/list.php:8
+#: views/sheets/list.php:7
+msgctxt "TEXT"
+msgid "Employee"
+msgstr "社員"
+
+#: modules/defaults/views/news/index.php:12
+msgctxt "TEXT"
+msgid "Message"
+msgstr "メッセージ"
+
+#: modules/defaults/views/news/index.php:13
+msgctxt "TEXT"
+msgid "Publish date"
+msgstr "発効日"
+
+#: modules/defaults/views/news/index.php:29
+#: views/company/settings/competencies/index.php:61
+#: views/templates/index.php:48
+msgid "Are you sure?"
+msgstr "確信しますか"
+
+#: modules/defaults/views/news/index.php:42
+msgctxt "LINK"
+msgid "Add news"
+msgstr "ニュース追加"
+
+#: modules/defaults/views/news/new.php:25
+#: views/company/settings/competencies/new.php:17
+#: views/company/settings/competencies/view.php:10
+#: views/company/settings/masterterm/new.php:41
+#: views/company/settings/mbos/edit.php:10
+#: views/company/settings/mbos/new.php:10
+#: views/company/settings/mbos/view.php:4 views/news/new.php:25
+msgctxt "LABEL"
+msgid "Title"
+msgstr "タイトル"
+
+#: modules/defaults/views/news/new.php:34 views/news/new.php:34
+msgctxt "LABEL"
+msgid "Summary"
+msgstr "概要"
+
+#: modules/defaults/views/news/new.php:43 views/news/new.php:43
+msgctxt "LABEL"
+msgid "Message"
+msgstr "メッセージ"
+
+#: modules/defaults/views/news/new.php:52
+msgctxt "LABEL"
+msgid "Publish date"
+msgstr "発効日"
+
+#: modules/defaults/views/news/new.php:76
+#: views/company/settings/grades/edit.php:37
+#: views/company/settings/grades/new.php:30
+msgctxt "LINK"
+msgid "Save"
+msgstr "保存"
+
+#: modules/defaults/views/news/view.php:4
+msgctxt "LABEL"
+msgid "Title:"
+msgstr "タイトル"
+
+#: modules/defaults/views/news/view.php:10
+msgctxt "LABEL"
+msgid "Summary:"
+msgstr "概要"
+
+#: modules/defaults/views/news/view.php:16
+msgctxt "LABEL"
+msgid "Employee:"
+msgstr "社員"
+
+#: modules/defaults/views/news/view.php:22
+msgctxt "LABEL"
+msgid "Message:"
+msgstr "メッセージ"
+
+#: modules/defaults/views/news/view.php:28
+msgctxt "LABEL"
+msgid "Publish date:"
+msgstr "発効日"
+
+#: modules/defaults/views/template.php:41 modules/rights/views/template1.php:41
+#: modules/user/views/template.php:37
+msgctxt "LINK"
+msgid "My Page"
+msgstr "自己ページ"
+
+#: modules/defaults/views/template.php:44 modules/rights/views/template1.php:44
+#: modules/user/views/template.php:40
+msgctxt "LINK"
+msgid "News"
+msgstr "ニュース"
+
+#: modules/defaults/views/template.php:48 modules/rights/views/template1.php:48
+#: modules/user/views/template.php:44
+msgctxt "LINK"
+msgid "Rights"
+msgstr "権利"
+
+#: modules/user/views/mypage/confirm.php:37
+#: modules/user/views/mypage/index.php:37
+msgctxt "TEXT"
+msgid "Man"
+msgstr "男性"
+
+#: modules/user/views/mypage/confirm.php:39
+msgctxt "TEXT"
+msgid "Woman"
+msgstr "女性"
+
+#: modules/user/views/mypage/confirm.php:44
+#: modules/user/views/mypage/index.php:45
+#: modules/user/views/mypage/update.php:87
+msgctxt "TEXT"
+msgid "Postal code"
+msgstr "郵便番号"
+
+#: modules/user/views/mypage/confirm.php:48
+#: modules/user/views/mypage/index.php:49
+#: modules/user/views/mypage/update.php:98
+msgctxt "TEXT"
+msgid "Prefectures"
+msgstr "都道府県"
+
+#: modules/user/views/mypage/confirm.php:52
+#: modules/user/views/mypage/index.php:53
+#: modules/user/views/mypage/update.php:109
+msgctxt "TEXT"
+msgid "Street address"
+msgstr "アドレス"
+
+#: modules/user/views/mypage/confirm.php:79
+#: views/admin/companies/confirm.php:208 views/admin/divisions/save.php:25
+#: views/approvals/confirm.php:28
+msgctxt "BTN"
+msgid "Register"
+msgstr "登録"
+
+#: modules/user/views/mypage/index.php:9
+msgctxt "TEXT"
+msgid "User information"
+msgstr "ユーザー情報"
+
+#: modules/user/views/mypage/index.php:39
+msgctxt "TEXT"
+msgid "Women"
+msgstr "女性"
+
+#: modules/user/views/mypage/index.php:79
+msgctxt "BTN"
+msgid "Updates"
+msgstr "アップデート"
+
+#: modules/user/views/mypage/thanks.php:10 views/approvals/thanks.php:10
+msgctxt "LINK"
+msgid "Return"
+msgstr "差し戻し"
+
+#: modules/user/views/mypage/update.php:9
+msgctxt "TEXT"
+msgid "Input of user information"
+msgstr "ユーザー情報入力"
+
+#: modules/user/views/mypage/update.php:20 views/approvals/index.php:12
+msgctxt "TEXT"
+msgid "user name"
+msgstr "ユーザネーム"
+
+#: modules/user/views/mypage/update.php:29
+msgctxt "TEXT"
+msgid "Given names"
+msgstr "名"
+
+#: modules/user/views/mypage/update.php:89 views/admin/companies/confirm.php:40
+#: views/admin/companies/view.php:18 views/approvals/index.php:73
+msgctxt "TEXT"
+msgid "zip"
+msgstr "郵便番号"
+
+#: modules/user/views/mypage/update.php:111 views/approvals/index.php:91
+msgctxt "TEXT"
+msgid "address"
+msgstr "アドレス"
+
+#: modules/user/views/mypage/update.php:170 views/approvals/update.php:52
+msgctxt "BTN"
+msgid "Check the contents"
+msgstr "内容を確認"
+
+#: modules/user/views/template.php:32
+msgctxt "TEXT"
+msgid "My Site"
+msgstr "自己サイト"
+
+#: views/admin/applications/list.php:10 views/approvals/list.php:9
+#: views/approvals/view.php:12
+msgctxt "TEXT"
+msgid "Recognize"
+msgstr "承認"
+
+#: views/admin/applications/list.php:11 views/application/update.php:45
+#: views/approvals/list.php:10 views/approvals/view.php:15
+msgctxt "TEXT"
+msgid "Ranking"
+msgstr "ランキング"
+
+#: views/admin/applications/list.php:12 views/approvals/confirm.php:18
+#: views/approvals/list.php:11 views/approvals/update.php:18
+#: views/approvals/view.php:18
+msgctxt "TEXT"
+msgid "Application types do not"
+msgstr "申請書種別"
+
+#: views/admin/applications/list.php:13 views/approvals/confirm.php:22
+#: views/approvals/list.php:12 views/approvals/update.php:34
+#: views/approvals/view.php:21
+msgctxt "TEXT"
+msgid "Approval status"
+msgstr "承認ステータス"
+
+#: views/admin/applications/list.php:15 views/admin/companies/confirm.php:221
+#: views/admin/employees/confirm.php:100 views/approvals/list.php:14
+#: views/approvals/view.php:27
+msgctxt "TEXT"
+msgid "When Updated"
+msgstr "アップデート日"
+
+#: views/admin/applications/list.php:45
+msgctxt "TEXT"
+msgid "No applications."
+msgstr "申請書なし"
+
+#: views/admin/companies/confirm.php:32 views/admin/companies/list.php:37
+#: views/admin/companies/view.php:10
+msgctxt "TEXT"
+msgid "company_name"
+msgstr "企業名"
+
+#: views/admin/companies/confirm.php:36 views/admin/companies/list.php:38
+#: views/admin/companies/view.php:14
+msgctxt "TEXT"
+msgid "company_code"
+msgstr "企業コード"
+
+#: views/admin/companies/confirm.php:44
+msgctxt "TEXT"
+msgid "prefecture_code"
+msgstr "都道府県コード"
+
+#: views/admin/companies/confirm.php:48 views/admin/companies/index.php:103
+#: views/admin/companies/view.php:26 views/mypage/company.php:25
+msgctxt "TEXT"
+msgid "Address 1"
+msgstr "アドレス1"
+
+#: views/admin/companies/confirm.php:52 views/admin/companies/index.php:119
+#: views/admin/companies/view.php:30 views/mypage/company.php:29
+msgctxt "TEXT"
+msgid "Address 2"
+msgstr "アドレス2"
+
+#: views/admin/companies/confirm.php:56 views/admin/companies/index.php:135
+#: views/admin/companies/view.php:34 views/mypage/company.php:33
+msgctxt "TEXT"
+msgid "Address 3"
+msgstr "アドレス3"
+
+#: views/admin/companies/confirm.php:64 views/admin/companies/index.php:167
+#: views/mypage/company.php:41
+msgctxt "TEXT"
+msgid "Fax"
+msgstr "ファックス"
+
+#: views/admin/companies/confirm.php:68 views/admin/companies/view.php:46
+msgctxt "TEXT"
+msgid "contact_name"
+msgstr "連絡先"
+
+#: views/admin/companies/confirm.php:72 views/admin/companies/view.php:50
+msgctxt "TEXT"
+msgid "contact_name_kana"
+msgstr "連絡先カナ"
+
+#: views/admin/companies/confirm.php:76 views/admin/companies/view.php:54
+msgctxt "TEXT"
+msgid "contact_email"
+msgstr "連絡先メールアドレス"
+
+#: views/admin/companies/confirm.php:80 views/admin/companies/view.php:58
+msgctxt "TEXT"
+msgid "other_emails"
+msgstr "その他メール"
+
+#: views/admin/companies/confirm.php:84 views/admin/companies/view.php:62
+msgctxt "TEXT"
+msgid "billing_zip"
+msgstr "請求先コード"
+
+#: views/admin/companies/confirm.php:88 views/admin/companies/view.php:22
+#: views/admin/companies/view.php:66
+msgctxt "TEXT"
+msgid "billing_prefecture_code"
+msgstr "請求先都道府県"
+
+#: views/admin/companies/confirm.php:92 views/admin/companies/view.php:70
+msgctxt "TEXT"
+msgid "billing_address_1"
+msgstr "請求先住所1"
+
+#: views/admin/companies/confirm.php:96 views/admin/companies/view.php:74
+msgctxt "TEXT"
+msgid "billing_address_2"
+msgstr "請求先住所2"
+
+#: views/admin/companies/confirm.php:100 views/admin/companies/view.php:78
+msgctxt "TEXT"
+msgid "billing_address_3"
+msgstr "請求先住所3"
+
+#: views/admin/companies/confirm.php:111
+msgctxt "TEXT"
+msgid "Option"
+msgstr "オプション"
+
+#: views/admin/companies/confirm.php:115 views/admin/companies/view.php:96
+msgctxt "TEXT"
+msgid "enable_evaluation_table"
+msgstr "評価テーブルを有効にする"
+
+#: views/admin/companies/confirm.php:120 views/admin/companies/view.php:101
+msgctxt "TEXT"
+msgid "enable_difficulty_level"
+msgstr "容易度を有効にする"
+
+#: views/admin/companies/confirm.php:125 views/admin/companies/view.php:106
+msgctxt "TEXT"
+msgid "enable_survey"
+msgstr "調査を有効にする"
+
+#: views/admin/companies/confirm.php:130 views/admin/companies/view.php:111
+msgctxt "TEXT"
+msgid "enable_password_reset"
+msgstr "パスワードリセットを有効にする"
+
+#: views/admin/companies/confirm.php:135 views/admin/companies/view.php:116
+msgctxt "TEXT"
+msgid "password_min_length"
+msgstr "パスワードの最小長"
+
+#: views/admin/companies/confirm.php:140 views/admin/companies/view.php:121
+msgctxt "TEXT"
+msgid "password_require_alnum"
+msgstr "パスワードは文字と数字が必要"
+
+#: views/admin/companies/confirm.php:145 views/admin/companies/view.php:126
+msgctxt "TEXT"
+msgid "enable_bonus_analysis"
+msgstr "ボーナス"
+
+#: views/admin/companies/confirm.php:150 views/admin/companies/view.php:131
+msgctxt "TEXT"
+msgid "bonus_base"
+msgstr "基本ボーナス"
+
+#: views/admin/companies/confirm.php:155 views/admin/companies/view.php:136
+msgctxt "TEXT"
+msgid "require_evaluation_value"
+msgstr "評価シートの必要とする値"
+
+#: views/admin/companies/confirm.php:160 views/admin/companies/view.php:141
+msgctxt "TEXT"
+msgid "require_evaluation_comment"
+msgstr "評価シートの必要とするコメント"
+
+#: views/admin/companies/confirm.php:165 views/admin/companies/view.php:146
+msgctxt "TEXT"
+msgid "require_evaluation_summary"
+msgstr "評価シートの必要とする概要"
+
+#: views/admin/companies/confirm.php:170 views/admin/companies/view.php:151
+msgctxt "TEXT"
+msgid "default_language"
+msgstr "デフォルト言語"
+
+#: views/admin/companies/confirm.php:180 views/admin/companies/view.php:161
+msgctxt "TEXT"
+msgid "Contract"
+msgstr "契約"
+
+#: views/admin/companies/confirm.php:184 views/admin/companies/view.php:168
+msgctxt "TEXT"
+msgid "contract_start"
+msgstr "契約開始"
+
+#: views/admin/companies/confirm.php:189 views/admin/companies/view.php:173
+msgctxt "TEXT"
+msgid "contract_end"
+msgstr "契約終了"
+
+#: views/admin/companies/confirm.php:194 views/admin/companies/list.php:43
+msgctxt "TEXT"
+msgid "payment_status"
+msgstr "決済ステータス"
+
+#: views/admin/companies/confirm.php:199 views/admin/companies/view.php:183
+msgctxt "TEXT"
+msgid "max_accounts"
+msgstr "のアカウント最大数"
+
+#: views/admin/companies/index.php:34
+msgctxt "LABEL"
+msgid "Company Name"
+msgstr "企業名"
+
+#: views/admin/companies/index.php:40 views/mypage/company.php:9
+#: views/mypage/confirm.php:18 views/mypage/index.php:53
+#: views/mypage/update.php:24 views/mypage/update.php:26
+#: views/mypage/update.php:34 views/mypage/update.php:37
+msgctxt "TEXT"
+msgid "Company Name"
+msgstr "企業名"
+
+#: views/admin/companies/index.php:56 views/mypage/company.php:13
+msgctxt "TEXT"
+msgid "Company Code"
+msgstr "企業コード"
+
+#: views/admin/companies/index.php:67
+msgctxt "LABEL"
+msgid "Zip Code"
+msgstr "郵便番号"
+
+#: views/admin/companies/index.php:72
+msgctxt "TEXT"
+msgid "Zip Code"
+msgstr "郵便番号"
+
+#: views/admin/companies/index.php:83
+msgctxt "LABEL"
+msgid "Prefecture Code"
+msgstr "都道府県コード"
+
+#: views/admin/companies/index.php:98
+msgctxt "LABEL"
+msgid "Address 1"
+msgstr "アドレス1"
+
+#: views/admin/companies/index.php:114
+msgctxt "LABEL"
+msgid "Address 2"
+msgstr "アドレス2"
+
+#: views/admin/companies/index.php:130
+msgctxt "LABEL"
+msgid "Address 3"
+msgstr "アドレス3"
+
+#: views/admin/companies/index.php:151 views/mypage/company.php:37
+msgctxt "TEXT"
+msgid "Tel"
+msgstr "電話番号"
+
+#: views/admin/companies/index.php:162
+msgctxt "LABEL"
+msgid "Fax"
+msgstr "ファックス番号"
+
+#: views/admin/companies/index.php:178
+msgctxt "LABEL"
+msgid "Contact Name"
+msgstr "連絡先"
+
+#: views/admin/companies/index.php:183 views/mypage/company.php:45
+msgctxt "TEXT"
+msgid "Contact Name"
+msgstr "連絡先"
+
+#: views/admin/companies/index.php:194
+msgctxt "LABEL"
+msgid "Contact Name Kana"
+msgstr "連絡先カナ"
+
+#: views/admin/companies/index.php:199 views/mypage/company.php:49
+msgctxt "TEXT"
+msgid "Contact Name Kana"
+msgstr "連絡先カナ"
+
+#: views/admin/companies/index.php:210
+msgctxt "LABEL"
+msgid "Contact Email"
+msgstr "連絡先メール"
+
+#: views/admin/companies/index.php:215 views/mypage/company.php:53
+msgctxt "TEXT"
+msgid "Contact Email"
+msgstr "連絡先メール"
+
+#: views/admin/companies/index.php:226
+msgctxt "LABEL"
+msgid "Other Email"
+msgstr "その他メール"
+
+#: views/admin/companies/index.php:231
+msgctxt "TEXT"
+msgid "Other  Email"
+msgstr "その他メール"
+
+#: views/admin/companies/index.php:242
+msgctxt "LABEL"
+msgid "Billing Zip"
+msgstr "請求先コード"
+
+#: views/admin/companies/index.php:247 views/mypage/company.php:61
+msgctxt "TEXT"
+msgid "Billing Zip"
+msgstr "請求先コード"
+
+#: views/admin/companies/index.php:258
+msgctxt "LABEL"
+msgid "Billing Prefecture Code"
+msgstr "請求先都道府県"
+
+#: views/admin/companies/index.php:273
+msgctxt "LABEL"
+msgid "Billing Address 1"
+msgstr "請求先アドレス1"
+
+#: views/admin/companies/index.php:278 views/mypage/company.php:69
+msgctxt "TEXT"
+msgid "Billing Address 1"
+msgstr "請求先アドレス1"
+
+#: views/admin/companies/index.php:289
+msgctxt "LABEL"
+msgid "Billing Address 2"
+msgstr "請求先アドレス2"
+
+#: views/admin/companies/index.php:294 views/mypage/company.php:73
+msgctxt "TEXT"
+msgid "Billing Address 2"
+msgstr "請求先アドレス2"
+
+#: views/admin/companies/index.php:305 views/admin/companies/index.php:321
+msgctxt "LABEL"
+msgid "Billing Address 3"
+msgstr "請求先アドレス3"
+
+#: views/admin/companies/index.php:310 views/mypage/company.php:77
+msgctxt "TEXT"
+msgid "Billing Address 3"
+msgstr "請求先アドレス3"
+
+#: views/admin/companies/index.php:339
+msgctxt "LABEL"
+msgid "Enable Evaluation Table"
+msgstr "評価テーブルを有効にする"
+
+#: views/admin/companies/index.php:356
+msgctxt "LABEL"
+msgid "Enable Difficulty Level"
+msgstr "容易度を有効にする"
+
+#: views/admin/companies/index.php:373
+msgctxt "LABEL"
+msgid "Enable Survey"
+msgstr "調査を有効にする"
+
+#: views/admin/companies/index.php:389
+msgctxt "LABEL"
+msgid "Enable Password Reset"
+msgstr "パスワードリセットを有効にする"
+
+#: views/admin/companies/index.php:405
+msgctxt "LABEL"
+msgid "Password Min Length"
+msgstr "パスワードの最小長"
+
+#: views/admin/companies/index.php:410
+msgctxt "TEXT"
+msgid "Password Min Length"
+msgstr "パスワードの最小長"
+
+#: views/admin/companies/index.php:421
+msgctxt "LABEL"
+msgid "Password Require Alnum"
+msgstr "パスワードは文字と数字が必要"
+
+#: views/admin/companies/index.php:437
+msgctxt "LABEL"
+msgid "Enable Bonus Analysis"
+msgstr "ボーナス分析を有効にする"
+
+#: views/admin/companies/index.php:453
+msgctxt "LABEL"
+msgid "Bonus Base"
+msgstr "基本ボーナス"
+
+#: views/admin/companies/index.php:468
+msgctxt "LABEL"
+msgid "Require Evaluation Value"
+msgstr "評価シートの必要とする値"
+
+#: views/admin/companies/index.php:484
+msgctxt "LABEL"
+msgid "Require Evaluation Comment"
+msgstr "評価シートの必要とするコメント"
+
+#: views/admin/companies/index.php:500
+msgctxt "LABEL"
+msgid "Require Evaluation Summary"
+msgstr "評価シートの必要とする概要"
+
+#: views/admin/companies/index.php:516
+msgctxt "LABEL"
+msgid "Default Language"
+msgstr "デフォルト言語"
+
+#: views/admin/companies/index.php:534
+msgctxt "LABEL"
+msgid "Contract Start"
+msgstr "契約開始"
+
+#: views/admin/companies/index.php:539
+msgctxt "TEXT"
+msgid "Contract Start"
+msgstr "契約開始"
+
+#: views/admin/companies/index.php:550
+msgctxt "LABEL"
+msgid "Contract End"
+msgstr "契約終了"
+
+#: views/admin/companies/index.php:555
+msgctxt "TEXT"
+msgid "Contract End"
+msgstr "契約終了"
+
+#: views/admin/companies/index.php:566
+msgctxt "LABEL"
+msgid "Payment Status"
+msgstr "決済ステータス"
+
+#: views/admin/companies/index.php:581
+msgctxt "LABEL"
+msgid "Max Accounts"
+msgstr "のアカウント最大数"
+
+#: views/admin/companies/index.php:586
+msgctxt "TEXT"
+msgid "Max Accounts"
+msgstr "のアカウント最大数"
+
+#: views/admin/companies/list.php:5
+msgctxt "LABEL"
+msgid "prefecture"
+msgstr "都道府県"
+
+#: views/admin/companies/list.php:8
+msgctxt "TEXT"
+msgid " ---- Please Select ----"
+msgstr "選択して下さい"
+
+#: views/admin/companies/list.php:12 views/templateassign/index.php:10
+msgctxt "BTN"
+msgid "Search"
+msgstr "検索"
+
+#: views/admin/companies/list.php:15
+msgctxt "LABEL"
+msgid "company_name"
+msgstr "企業名"
+
+#: views/admin/companies/list.php:23
+msgctxt "TEXT"
+msgid "Flea Market name"
+msgstr "フリーマーケット"
+
+#: views/admin/companies/list.php:40
+msgctxt "TEXT"
+msgid "address_1"
+msgstr "アドレス1"
+
+#: views/admin/companies/list.php:41
+msgctxt "TEXT"
+msgid "prefecture"
+msgstr "都道府県"
+
+#: views/admin/companies/list.php:58
+msgctxt "LINK"
+msgid "Deactivate"
+msgstr "不活性化する"
+
+#: views/admin/companies/list.php:60
+msgctxt "LINK"
+msgid "Activate"
+msgstr "活性化する"
+
+#: views/admin/companies/list.php:80
+msgctxt "LINK"
+msgid "Add company"
+msgstr "企業追加"
+
+#: views/admin/companies/view.php:1 views/mypage/company.php:1
+msgctxt "TEXT"
+msgid "Viewing Company #"
+msgstr "#企業閲覧"
+
+#: views/admin/companies/view.php:42
+msgctxt "TEXT"
+msgid "fax"
+msgstr "FAX"
+
+#: views/admin/companies/view.php:91
+msgctxt "TEXT"
+msgid "company_option_id"
+msgstr "企業オプションID"
+
+#: views/admin/companies/view.php:163
+msgctxt "TEXT"
+msgid "company_contract_id"
+msgstr "企業契約ID"
+
+#: views/admin/companies/view.php:178
+msgctxt "TEXT"
+msgid "admin_account_id"
+msgstr "アドミンアカウントID"
+
+#: views/admin/divisions/index.php:13
+msgctxt "TEXT"
+msgid "division_name"
+msgstr "部署名"
+
+#: views/admin/divisions/list.php:10
+msgctxt "TEXT"
+msgid "created_at"
+msgstr "追加"
+
+#: views/admin/divisions/list.php:11
+msgctxt "TEXT"
+msgid "updated_at"
+msgstr "更新"
+
+#: views/admin/divisions/list.php:35
+msgctxt "TEXT"
+msgid "No divisions."
+msgstr "部署なし"
+
+#: views/admin/divisions/list.php:38
+msgctxt "LINK"
+msgid "Add division"
+msgstr "部署追加"
+
+#: views/admin/divisions/view.php:1
+msgctxt "TEXT"
+msgid "Viewing Division#"
+msgstr "部署を見る"
+
+#: views/admin/employees/confirm.php:39 views/admin/employees/list.php:10
+msgctxt "TEXT"
+msgid "Sex"
+msgstr "性別"
+
+#: views/admin/employees/header_js.php:58
+msgctxt "TEXT"
+msgid "OR"
+msgstr ""
+
+#: views/admin/employees/header_js.php:59
+msgctxt "TEXT"
+msgid "AND"
+msgstr ""
+
+#: views/admin/employees/header_js.php:60
+msgctxt "TEXT"
+msgid ""
+"<b>You must choose department and save them before you want to set workflow "
+"for this employee</b>"
+msgstr "社員向けワークフローを設定する前に部署の選んで保存しなければなりません"
+
+#: views/admin/employees/header_js.php:61
+msgctxt "TEXT"
+msgid ""
+"<b>You must save department before you want to set workflow for this "
+"employee</b>"
+msgstr "社員向けワークフローを設定する前に部署を保存しなければなりません"
+
+#: views/admin/employees/header_js.php:62
+msgctxt "TEXT"
+msgid "Please select department"
+msgstr "部署を選んでください"
+
+#: views/admin/employees/header_js.php:63
+msgctxt "TEXT"
+msgid "Total weight not 100%"
+msgstr "合計ウェイトは100%ではありません"
+
+#: views/admin/employees/header_js.php:73
+msgctxt "TEXT"
+msgid "Setting Workflow for employee"
+msgstr "社員向けワークフローを設定します"
+
+#: views/admin/employees/header_js.php:74
+msgctxt "TEXT"
+msgid "Step"
+msgstr "段階"
+
+#: views/admin/employees/header_js.php:75
+#: views/admin/employees/header_js.php:85
+msgctxt "TEXT"
+msgid "AND/OR selection"
+msgstr "AND/OR選択"
+
+#: views/admin/employees/header_js.php:76
+#: views/admin/employees/header_js.php:86
+msgctxt "TEXT"
+msgid "Rater Users list"
+msgstr "評価者ユーザー一覧"
+
+#: views/admin/employees/header_js.php:77
+msgctxt "LINK"
+msgid "Add Row"
+msgstr "列追加"
+
+#: views/admin/employees/header_js.php:78
+#: views/admin/employees/header_js.php:87
+msgctxt "TEXT"
+msgid "Close"
+msgstr "クローズ"
+
+#: views/admin/employees/header_js.php:79
+msgctxt "TEXT"
+msgid "Weight (%)"
+msgstr "ウェイト(%)"
+
+#: views/admin/employees/header_js.php:84
+msgctxt "TEXT"
+msgid "Setting Workflow for 360 employee"
+msgstr "360評価のワークフロー設定"
+
+#: views/admin/employees/header_js.php:94
+#: views/company/settings/ratings/index.php:28
+msgctxt "TEXT"
+msgid "Delete"
+msgstr "削除"
+
+#: views/admin/employees/index.php:41
+msgctxt "LABEL"
+msgid "Department"
+msgstr "部署"
+
+#: views/admin/employees/index.php:48
+msgctxt "TEXT"
+msgid "Select Department"
+msgstr "部署選択"
+
+#: views/admin/employees/index.php:61
+msgctxt "LABEL"
+msgid "Employee number"
+msgstr "社員ナンバー"
+
+#: views/admin/employees/index.php:62
+msgctxt "TEXT"
+msgid "Please input employee number"
+msgstr "社員ナンバーを入力して下さい"
+
+#: views/admin/employees/index.php:70
+msgctxt "LABEL"
+msgid "Login ID"
+msgstr "ログインID"
+
+#: views/admin/employees/index.php:72
+msgctxt "TEXT"
+msgid "Please input login ID"
+msgstr "ログインIDを入力して下さい"
+
+#: views/admin/employees/index.php:81
+msgctxt "LABEL"
+msgid "First name"
+msgstr "名"
+
+#: views/admin/employees/index.php:82
+msgctxt "TEXT"
+msgid "Please input first name"
+msgstr "名を入力して下さい"
+
+#: views/admin/employees/index.php:90
+msgctxt "LABEL"
+msgid "Last name"
+msgstr "姓"
+
+#: views/admin/employees/index.php:91
+msgctxt "TEXT"
+msgid "Please input last name"
+msgstr "姓を入力して下さい"
+
+#: views/admin/employees/index.php:99
+msgctxt "LABEL"
+msgid "First katakana name"
+msgstr "名カナ"
+
+#: views/admin/employees/index.php:100
+msgctxt "TEXT"
+msgid "Please input first katakana name"
+msgstr "名カナを入力してください"
+
+#: views/admin/employees/index.php:109
+msgctxt "LABEL"
+msgid "Last katakana name"
+msgstr "姓カナを入力してください"
+
+#: views/admin/employees/index.php:110
+msgctxt "TEXT"
+msgid "Please input last katakana name"
+msgstr "姓カナを入力してください"
+
+#: views/admin/employees/index.php:119
+msgctxt "TEXT"
+msgid "Select birthday"
+msgstr "生年月日選択"
+
+#: views/admin/employees/index.php:127 views/admin/employees/view.php:115
+#: views/approvals/index.php:57 views/mypage/index.php:67
+msgctxt "LABEL"
+msgid "Sex"
+msgstr "性別"
+
+#: views/admin/employees/index.php:142
+msgctxt "TEXT"
+msgid "Please input phone number type: 0XX-XXXX-XXXX"
+msgstr "電話番号を入力して下さい。形式：0XX-XXXX-XXXX"
+
+#: views/admin/employees/index.php:151
+msgctxt "TEXT"
+msgid "Please input mobile phone number"
+msgstr "携帯番号を入力して下さい"
+
+#: views/admin/employees/index.php:160
+msgctxt "TEXT"
+msgid "Please input email address"
+msgstr "メールアドレスを入力して下さい"
+
+#: views/admin/employees/index.php:168
+msgctxt "LABEL"
+msgid "Image file"
+msgstr "画像ファイル"
+
+#: views/admin/employees/index.php:194
+msgctxt "TEXT"
+msgid "Employee Sensitive Information"
+msgstr "社員の機密情報"
+
+#: views/admin/employees/index.php:196 views/admin/employees/view.php:103
+#: views/mypage/index.php:62
+msgctxt "LABEL"
+msgid "Start working"
+msgstr "事業開始"
+
+#: views/admin/employees/index.php:197
+msgctxt "TEXT"
+msgid "Please select date time start working"
+msgstr "事業開始の日時を選んでください"
+
+#: views/admin/employees/index.php:205 views/admin/employees/view.php:108
+msgctxt "LABEL"
+msgid "End working"
+msgstr "事業終了"
+
+#: views/admin/employees/index.php:206
+msgctxt "TEXT"
+msgid "Please select date time end working"
+msgstr "事業終了の日時を選んでください"
+
+#: views/admin/employees/index.php:214 views/admin/employees/view.php:98
+msgctxt "LABEL"
+msgid "Account status"
+msgstr "アカウントステータス"
+
+#: views/admin/employees/index.php:236 views/admin/employees/view.php:120
+msgctxt "LABEL"
+msgid "Salary settings"
+msgstr "給与設定"
+
+#: views/admin/employees/index.php:237
+msgctxt "TEXT"
+msgid "Please input salary setting"
+msgstr "給与設定を入力して下さい"
+
+#: views/admin/employees/index.php:240 views/admin/employees/index.php:248
+msgctxt "TEXT"
+msgid "Salary setting"
+msgstr "給与設定"
+
+#: views/admin/employees/index.php:244 views/admin/employees/view.php:125
+msgctxt "LABEL"
+msgid "Adjustment Salary"
+msgstr "給与調整"
+
+#: views/admin/employees/index.php:245
+msgctxt "TEXT"
+msgid "Please input adjustment Salary"
+msgstr "給与調整を入力して下さい"
+
+#: views/admin/employees/index.php:265
+msgctxt "TEXT"
+msgid "Workflow Evaluation"
+msgstr "評価ワークフロー"
+
+#: views/admin/employees/index.php:266
+msgctxt "TEXT"
+msgid "Workflow 360 Evaluation"
+msgstr "360評価ワークフロー"
+
+#: views/admin/employees/list.php:13
+msgctxt "TEXT"
+msgid "Last Login"
+msgstr "最終ログイン"
+
+#: views/admin/employees/list.php:61
+msgctxt "TEXT"
+msgid "No employees."
+msgstr "社員なし"
+
+#: views/admin/employees/list.php:64
+msgctxt "TEXT"
+msgid "Add employee"
+msgstr "社員追加"
+
+#: views/admin/employees/view.php:132
+msgctxt "LABEL"
+msgid "Permission"
+msgstr "権限"
+
+#: views/admin/employees/view.php:134
+msgctxt "LINK"
+msgid "Change Permission"
+msgstr "権限変更"
+
+#: views/admin/login.php:14
+msgctxt "LABEL"
+msgid "Email or Username:"
+msgstr "メールまたはユーザー"
+
+#: views/admin/login.php:15
+msgctxt "TEXT"
+msgid "Email or Username"
+msgstr "メールまたはユーザー"
+
+#: views/admin/login.php:23
+msgctxt "LABEL"
+msgid "Password:"
+msgstr "パスワード"
+
+#: views/admin/template.php:35
+msgctxt "LINK"
+msgid "Accounts"
+msgstr "アカウント"
+
+#: views/admin/template.php:38
+msgctxt "LINK"
+msgid "Companies"
+msgstr "企業"
+
+#: views/admin/template.php:41
+msgctxt "LINK"
+msgid "Managers"
+msgstr "マネジャー"
+
+#: views/admin/template.php:48
+msgctxt "LINK"
+msgid "Change Password"
+msgstr "パスワード編集"
+
+#: views/admin/uploader/list.php:9
+msgctxt "TEXT"
+msgid "List File"
+msgstr "ファイル一覧"
+
+#: views/admin/uploader/list.php:19
+msgctxt "TEXT"
+msgid "Controller"
+msgstr "コントローラー"
+
+#: views/admin/uploader/list.php:20
+msgctxt "TEXT"
+msgid "Basename"
+msgstr "基本名前"
+
+#: views/admin/uploader/list.php:21
+msgctxt "TEXT"
+msgid "Size"
+msgstr "サイズ"
+
+#: views/admin/uploader/list.php:22 views/sheetlist/list.php:13
+#: views/sheets/list.php:12
+msgctxt "TEXT"
+msgid "Created"
+msgstr "作成"
+
+#: views/admin/uploader/list.php:48
+msgctxt "LINK"
+msgid "Add File"
+msgstr "ファイルを追加"
+
+#: views/admin/uploader/list.php:49
+msgctxt "LINK"
+msgid "Add File Competencies"
+msgstr "ファイルのコンピテンシーを追加"
+
+#: views/admin/uploader/upload.php:15
+msgctxt "TEXT"
+msgid "Drag and Drop files..."
+msgstr "ファイルのドラッグとドロップ"
+
+#: views/admin/uploader/upload.php:27
+msgctxt "BTN"
+msgid "Upload"
+msgstr "アップロード"
+
+#: views/application/thanks.php:4 views/mypage/thanks.php:4
+#: views/sheets/thanks.php:4
+msgctxt "TEXT"
+msgid "Registration Completion"
+msgstr "ユーザ情報の登録完了"
+
+#: views/application/thanks.php:7 views/mypage/thanks.php:7
+#: views/sheets/thanks.php:7
+msgctxt "TEXT"
+msgid "Registration of user information has been completed"
+msgstr "ユーザ情報の登録が完了しました"
+
+#: views/application/update.php:19 views/mypage/confirm.php:42
+#: views/mypage/update.php:44 views/mypage/update.php:48
+#: views/mypage/update.php:50
+msgctxt "TEXT"
+msgid "Login Code"
+msgstr "ログインコード"
+
+#: views/application/update.php:27
+msgctxt "TEXT"
+msgid "Workflow Type"
+msgstr "ニックネーム"
+
+#: views/application/update.php:36
+msgctxt "TEXT"
+msgid "Approval Type"
+msgstr "承認状況"
+
+#: views/approvals/index.php:71
+msgctxt "LABEL"
+msgid "Postal code"
+msgstr "郵便番号"
+
+#: views/approvals/index.php:81
+msgctxt "LABEL"
+msgid "Prefectures"
+msgstr "都道府県"
+
+#: views/approvals/index.php:90
+msgctxt "LABEL"
+msgid "Street address"
+msgstr "アドレス"
+
+#: views/approvals/index.php:117
+msgctxt "LABEL"
+msgid "Mail address"
+msgstr "メールアドレス"
+
+#: views/approvals/index.php:135
+msgctxt "LABEL"
+msgid "Administrator Note"
+msgstr "管理者メモ"
+
+#: views/approvals/list.php:39
+msgctxt "TEXT"
+msgid "No approvals."
+msgstr "承認なし"
+
+#: views/approvals/update.php:9
+msgctxt "TEXT"
+msgid "Input of the applicant"
+msgstr "被評価者の入力"
+
+#: views/approvals/view.php:6
+msgctxt "TEXT"
+msgid "Viewing Approval#"
+msgstr "承認閲覧"
+
+#: views/approvals/view.php:33
+msgctxt "TEXT"
+msgid "Memo"
+msgstr "メモ"
+
+#: views/approvals/view.php:38
+msgctxt "TEXT"
+msgid "Are you sure [Recognize] ?"
+msgstr "確信しますか"
+
+#: views/approvals/view.php:38
+msgctxt "BTN"
+msgid "Recognize"
+msgstr "承認"
+
+#: views/approvals/view.php:39
+msgctxt "TEXT"
+msgid "Are you sure [Denial]?"
+msgstr "確信しますか"
+
+#: views/approvals/view.php:39
+msgctxt "BTN"
+msgid "Denial"
+msgstr "拒否"
+
+#: views/company/settings/competencies/achievement_new.php:10
+msgctxt "LABEL"
+msgid "Competency"
+msgstr "コンピテンシー"
+
+#: views/company/settings/competencies/achievement_new.php:14
+#: views/company/settings/competencies/label_new.php:5
+#: views/company/settings/competencies/new_tsv.php:10
+#: views/company/settings/mbos/difficulty_new.php:5
+#: views/company/settings/mbos/edit.php:19
+#: views/company/settings/mbos/label_new.php:5
+#: views/company/settings/mbos/new.php:19
+msgctxt "LABEL"
+msgid "TSV Content"
+msgstr "TSV内容"
+
+#: views/company/settings/competencies/achievement_new.php:15
+msgctxt "TEXT"
+msgid "[Title][TAB][Description][TAB][Score]"
+msgstr ""
+
+#: views/company/settings/competencies/achievements.php:9
+#: views/sheetlist/view.php:53 views/sheets/review.php:11
+#: views/sheets/update.php:13 views/sheets/view.php:76
+#: views/templates/edit.php:40 views/templates/new.php:39
+#: views/templates/view.php:32
+msgctxt "TEXT"
+msgid "Competency"
+msgstr "コンピテンシー"
+
+#: views/company/settings/competencies/achievements.php:12
+#: views/company/settings/competencies/labels.php:10
+#: views/company/settings/mbos/labels.php:10 views/sheets/review.php:28
+#: views/sheets/review.php:40 views/sheets/review.php:139
+#: views/sheets/review.php:151
+msgctxt "TEXT"
+msgid "Score"
+msgstr "スコア"
+
+#: views/company/settings/competencies/achievements.php:35
+#: views/company/settings/competencies/index.php:53
+msgctxt "TEXT"
+msgid "No Competencies"
+msgstr "コンピテンシーなし"
+
+#: views/company/settings/competencies/achievements.php:40
+#: views/company/settings/competencies/index.php:59
+#: views/company/settings/mbos/difficulties.php:36
+#: views/company/settings/mbos/index.php:36
+#: views/company/settings/mbos/labels.php:36
+msgid "Add By TSV"
+msgstr "TSVで追加"
+
+#: views/company/settings/competencies/achievements.php:41
+#: views/company/settings/competencies/labels.php:37
+msgid "Competencies"
+msgstr "コンピテンシー"
+
+#: views/company/settings/competencies/index.php:58
+#: views/company/settings/competencies/labels.php:36
+#: views/templates/edit.php:78 views/templates/new.php:56
+msgid "Add"
+msgstr "追加"
+
+#: views/company/settings/competencies/index.php:61
+msgid "Delete All"
+msgstr "全て削除"
+
+#: views/company/settings/competencies/index.php:63
+msgid "Choose Existing File"
+msgstr "既存ファイル選択"
+
+#: views/company/settings/competencies/index.php:65
+msgid "Upload CSV File"
+msgstr "CSVファイルアップロード"
+
+#: views/company/settings/competencies/index.php:68
+msgid "Achievements"
+msgstr "成績"
+
+#: views/company/settings/competencies/index.php:69
+#: views/company/settings/mbos/index.php:38
+msgid "Score Labels"
+msgstr "スコアラベル"
+
+#: views/company/settings/competencies/index.php:85
+msgid "List File"
+msgstr "ファイル一覧"
+
+#: views/company/settings/competencies/index.php:92
+msgid "ID"
+msgstr "IDD"
+
+#: views/company/settings/competencies/index.php:93 views/templates/edit.php:14
+msgid "Name"
+msgstr "名前"
+
+#: views/company/settings/competencies/index.php:94
+msgid "Basename"
+msgstr "基本名前"
+
+#: views/company/settings/competencies/index.php:95
+msgid "Size"
+msgstr "サイズ"
+
+#: views/company/settings/competencies/index.php:96
+msgid "Created"
+msgstr "作成"
+
+#: views/company/settings/competencies/index.php:97
+#: views/company/settings/competencies/index.php:125
+msgid "Import"
+msgstr "インポート"
+
+#: views/company/settings/competencies/index.php:123
+msgid "Sellect All"
+msgstr "全て選択"
+
+#: views/company/settings/competencies/index.php:124
+msgid "Desellect All"
+msgstr "全ての選択解除"
+
+#: views/company/settings/competencies/index.php:126
+msgid "Delete CSV"
+msgstr "CSV削除"
+
+#: views/company/settings/competencies/index.php:128
+msgid "Close"
+msgstr "クローズ"
+
+#: views/company/settings/competencies/label_new.php:6
+#: views/company/settings/mbos/label_new.php:6
+msgctxt "TEXT"
+msgid "[Label][TAB][Score]"
+msgstr ""
+
+#: views/company/settings/competencies/labels.php:9
+#: views/company/settings/mbos/labels.php:9
+msgctxt "TEXT"
+msgid "Label"
+msgstr ""
+
+#: views/company/settings/competencies/labels.php:32
+msgctxt "TEXT"
+msgid "No Score Labels"
+msgstr "スコアラベルなし"
+
+#: views/company/settings/competencies/new_tsv.php:11
+msgctxt "TEXT"
+msgid "[Title][TAB][Description]"
+msgstr ""
+
+#: views/company/settings/grades/edit.php:2
+msgctxt "TEXT"
+msgid "Edit Salary Grade"
+msgstr ""
+
+#: views/company/settings/grades/edit.php:39
+#: views/company/settings/grades/new.php:32
+msgctxt "LINK"
+msgid "List"
+msgstr "一覧"
+
+#: views/company/settings/grades/list.php:7
+msgctxt "TEXT"
+msgid "Number of Step"
+msgstr "段階ナンバー"
+
+#: views/company/settings/grades/list.php:27
+msgctxt "TEXT"
+msgid "No grades."
+msgstr "等級なし"
+
+#: views/company/settings/grades/list.php:30
+msgctxt "LINK"
+msgid "Add Grade"
+msgstr "等級追加"
+
+#: views/company/settings/grades/new.php:6
+#: views/company/settings/grades/view.php:4
+msgctxt "LABEL"
+msgid "Grade ID"
+msgstr "等級ID"
+
+#: views/company/settings/masterterm/index.php:10
+#: views/company/settings/masterterm/view.php:10
+msgctxt "TEXT"
+msgid "Start Date"
+msgstr "開始日"
+
+#: views/company/settings/masterterm/index.php:11
+#: views/company/settings/masterterm/view.php:16
+msgctxt "TEXT"
+msgid "End Date"
+msgstr "終了日"
+
+#: views/company/settings/masterterm/index.php:35
+#: views/company/settings/terms/index.php:42
+msgctxt "TEXT"
+msgid "No term."
+msgstr "期間なし"
+
+#: views/company/settings/masterterm/index.php:38
+#: views/company/settings/ratings/index.php:45
+#: views/company/settings/ratings/index.php:47
+#: views/company/settings/ratings/new_absolute.php:102
+#: views/company/settings/ratings/new_relative.php:75
+#: views/company/settings/terms/index.php:45 views/news/index.php:36
+#: views/templates/index.php:38
+msgctxt "LINK"
+msgid "Add"
+msgstr "追加"
+
+#: views/company/settings/masterterm/new.php:16
+#: views/company/settings/terms/header_js.php:7
+msgctxt "TEXT"
+msgid "The date must come before the end date"
+msgstr "終了日以前の日"
+
+#: views/company/settings/masterterm/new.php:29
+#: views/company/settings/terms/header_js.php:5
+msgctxt "TEXT"
+msgid "The date must come after the start date"
+msgstr "開始日以降の日"
+
+#: views/company/settings/masterterm/new.php:50
+msgctxt "LABEL"
+msgid "Start Date"
+msgstr "開始日"
+
+#: views/company/settings/masterterm/new.php:59
+msgctxt "LABEL"
+msgid "End Date"
+msgstr "終了日"
+
+#: views/company/settings/masterterm/new.php:69 views/news/new.php:77
+msgctxt "BTN"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: views/company/settings/mbos/difficulties.php:10
+msgctxt "TEXT"
+msgid "Value"
+msgstr "値"
+
+#: views/company/settings/mbos/difficulties.php:33
+#: views/company/settings/mbos/index.php:33
+#: views/company/settings/mbos/labels.php:33
+msgctxt "TEXT"
+msgid "No MBO"
+msgstr "MBOなし"
+
+#: views/company/settings/mbos/difficulties.php:37
+#: views/company/settings/mbos/labels.php:37 views/sheets/edit.php:138
+#: views/templates/edit.php:159 views/templates/new.php:88
+msgid "Back"
+msgstr "差し戻す"
+
+#: views/company/settings/mbos/difficulty_new.php:6
+msgctxt "TEXT"
+msgid "[Name][TAB][Value]"
+msgstr ""
+
+#: views/company/settings/mbos/edit.php:20
+#: views/company/settings/mbos/new.php:20
+msgctxt "TEXT"
+msgid ""
+"[Title][TAB][Weight][TAB][Level1][TAB][Level2][TAB][Level3][TAB][Level4][TAB]"
+"[Level5][TAB][Level6][TAB][Difficutly]"
+msgstr ""
+
+#: views/company/settings/mbos/index.php:37
+msgid "Difficulties"
+msgstr "難易度"
+
+#: views/company/settings/mbos/view.php:16 views/sheetlist/view.php:59
+#: views/sheetlist/view.php:78 views/sheets/edit.php:100
+#: views/sheets/review.php:17 views/sheets/review.php:122
+#: views/sheets/update.php:19 views/sheets/update.php:65
+#: views/sheets/view.php:82 views/sheets/view.php:101
+#: views/templates/edit.php:41 views/templates/edit.php:84
+#: views/templates/new.php:40 views/templates/new.php:62
+#: views/templates/view.php:33 views/templates/view.php:62
+msgctxt "TEXT"
+msgid "Weight"
+msgstr "ウェイト"
+
+#: views/company/settings/mbos/view.php:17
+msgctxt "TEXT"
+msgid "Level1"
+msgstr ""
+
+#: views/company/settings/mbos/view.php:18
+msgctxt "TEXT"
+msgid "Level2"
+msgstr ""
+
+#: views/company/settings/mbos/view.php:19
+msgctxt "TEXT"
+msgid "Level3"
+msgstr ""
+
+#: views/company/settings/mbos/view.php:20
+msgctxt "TEXT"
+msgid "Level4"
+msgstr ""
+
+#: views/company/settings/mbos/view.php:21
+msgctxt "TEXT"
+msgid "Level5"
+msgstr ""
+
+#: views/company/settings/mbos/view.php:22
+msgctxt "TEXT"
+msgid "Level6"
+msgstr ""
+
+#: views/company/settings/mbos/view.php:23
+msgctxt "TEXT"
+msgid "Difficult"
+msgstr ""
+
+#: views/company/settings/ratings/header_js.php:101
+msgctxt "TEXT"
+msgid "Total percentage must be 100%"
+msgstr ""
+
+#: views/company/settings/ratings/header_js.php:102
+msgctxt "TEXT"
+msgid "You must add item before save"
+msgstr ""
+
+#: views/company/settings/ratings/header_js.php:103
+msgctxt "TEXT"
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: views/company/settings/ratings/header_js.php:104
+msgctxt "TEXT"
+msgid "Are you sure to copy this item?"
+msgstr ""
+
+#: views/company/settings/ratings/index.php:3
+#: views/company/settings/ratings/new_relative.php:6
+msgctxt "TEXT"
+msgid "Evaluation system - score rating (relative evaluation)"
+msgstr ""
+
+#: views/company/settings/ratings/index.php:5
+#: views/company/settings/ratings/new_absolute.php:32
+msgctxt "TEXT"
+msgid "Evaluation system - score rating (absolute evaluation)"
+msgstr ""
+
+#: views/company/settings/ratings/index.php:26
+msgctxt "TEXT"
+msgid "Edit"
+msgstr ""
+
+#: views/company/settings/ratings/index.php:27
+msgctxt "TEXT"
+msgid "Copy"
+msgstr ""
+
+#: views/company/settings/ratings/index.php:40
+msgctxt "TEXT"
+msgid "No lists."
+msgstr ""
+
+#: views/company/settings/ratings/new_absolute.php:62
+#: views/company/settings/ratings/new_relative.php:35
+msgctxt "TEXT"
+msgid "Please input name"
+msgstr ""
+
+#: views/company/settings/ratings/new_absolute.php:72
+#: views/company/settings/ratings/new_relative.php:45
+msgctxt "TEXT"
+msgid "Low ↑ "
+msgstr ""
+
+#: views/company/settings/ratings/new_absolute.php:74
+#: views/company/settings/ratings/new_relative.php:47
+msgctxt "TEXT"
+msgid "score"
+msgstr ""
+
+#: views/company/settings/ratings/new_absolute.php:87
+#: views/company/settings/ratings/new_relative.php:60
+msgctxt "TEXT"
+msgid "Order"
+msgstr ""
+
+#: views/company/settings/ratings/new_absolute.php:88
+msgctxt "TEXT"
+msgid "Minimum value"
+msgstr ""
+
+#: views/company/settings/ratings/new_absolute.php:89
+msgctxt "TEXT"
+msgid "Maximum"
+msgstr ""
+
+#: views/company/settings/ratings/new_absolute.php:90
+#: views/company/settings/ratings/new_relative.php:62
+msgctxt "TEXT"
+msgid "Goho"
+msgstr ""
+
+#: views/company/settings/ratings/new_absolute.php:91
+#: views/company/settings/ratings/new_relative.php:63
+msgctxt "TEXT"
+msgid "Rank Name"
+msgstr ""
+
+#: views/company/settings/ratings/new_relative.php:53
+msgctxt "TEXT"
+msgid "high ↓"
+msgstr ""
+
+#: views/company/settings/ratings/new_relative.php:61
+msgctxt "TEXT"
+msgid "Percentage"
+msgstr ""
+
+#: views/company/settings/ratings/new_relative.php:70
+msgctxt "TEXT"
+msgid "Total"
+msgstr ""
+
+#: views/company/settings/terms/edit.php:12
+#: views/company/settings/terms/new.php:14
+msgctxt "LABEL"
+msgid "Master"
+msgstr "マスター"
+
+#: views/company/settings/terms/edit.php:35
+#: views/company/settings/terms/new.php:31
+msgctxt "TEXT"
+msgid "Setting Goals:"
+msgstr "目標設定"
+
+#: views/company/settings/terms/edit.php:36
+#: views/company/settings/terms/edit.php:55
+#: views/company/settings/terms/edit.php:74
+#: views/company/settings/terms/new.php:32
+#: views/company/settings/terms/new.php:51
+#: views/company/settings/terms/new.php:70
+msgctxt "TEXT"
+msgid "Employee:"
+msgstr "社員"
+
+#: views/company/settings/terms/edit.php:40
+#: views/company/settings/terms/edit.php:59
+#: views/company/settings/terms/edit.php:78
+#: views/company/settings/terms/new.php:36
+#: views/company/settings/terms/new.php:55
+#: views/company/settings/terms/new.php:74
+msgctxt "TEXT"
+msgid "1st reviwer:"
+msgstr "1次評価者"
+
+#: views/company/settings/terms/edit.php:44
+#: views/company/settings/terms/edit.php:63
+#: views/company/settings/terms/edit.php:82
+#: views/company/settings/terms/new.php:40
+#: views/company/settings/terms/new.php:59
+#: views/company/settings/terms/new.php:78
+msgctxt "TEXT"
+msgid "2nd reviwer:"
+msgstr "2社評価者"
+
+#: views/company/settings/terms/edit.php:48
+#: views/company/settings/terms/edit.php:67
+#: views/company/settings/terms/edit.php:86
+#: views/company/settings/terms/new.php:44
+#: views/company/settings/terms/new.php:63
+#: views/company/settings/terms/new.php:82
+msgctxt "TEXT"
+msgid "Other reviwer:"
+msgstr "その他評価者"
+
+#: views/company/settings/terms/edit.php:54
+#: views/company/settings/terms/new.php:50
+msgctxt "TEXT"
+msgid "Midterm Review:"
+msgstr "中間評価"
+
+#: views/company/settings/terms/edit.php:73
+#: views/company/settings/terms/new.php:69
+msgctxt "TEXT"
+msgid "Final Review:"
+msgstr "最終評価"
+
+#: views/company/settings/terms/edit.php:92
+#: views/company/settings/terms/new.php:88
+msgctxt "TEXT"
+msgid "Surrondings: "
+msgstr "周囲評価"
+
+#: views/company/settings/terms/header_js.php:4
+msgctxt "TEXT"
+msgid "The end date must come after the start date"
+msgstr "必ず、終了日は開始日の後です"
+
+#: views/company/settings/terms/header_js.php:6
+msgctxt "TEXT"
+msgid "The date must come after the start date in current row"
+msgstr "現在の列に開始日の後の日"
+
+#: views/company/settings/terms/header_js.php:8
+msgctxt "TEXT"
+msgid "The date must come before the end date  in current row"
+msgstr "現在の列に、終了日の前の日"
+
+#: views/company/settings/terms/new.php:98
+msgctxt "TEXT"
+msgid "Please add master term first "
+msgstr "まず、期間マスターを追加して下さい"
+
+#: views/login/index.php:17
+msgctxt "TEXT"
+msgid "Competent leaders was renewed on September 1, 2015"
+msgstr "コンピテンシーリーダーは2015年9月1日に更新されました"
+
+#: views/login/index.php:44
+msgctxt "LABEL"
+msgid "Username"
+msgstr "ユーザーネーム"
+
+#: views/login/index.php:46
+msgctxt "TEXT"
+msgid "Please enter alphanumeric characters"
+msgstr "文字と数字を入力して下さい"
+
+#: views/login/index.php:64
+msgctxt "TEXT"
+msgid "Forgot your password"
+msgstr "パスワードを忘れました"
+
+#: views/login/index.php:64
+msgctxt "TEXT"
+msgid "Session time-out is 120 minutes"
+msgstr "セッションタイムアウトは120分"
+
+#: views/login/index.php:76
+msgctxt "TEXT"
+msgid "Copyright"
+msgstr "著作権"
+
+#: views/login/index.php:79
+msgctxt "TEXT"
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: views/login/index.php:80
+msgctxt "TEXT"
+msgid "Terms of service"
+msgstr "サービス期間"
+
+#: views/login/index.php:90
+msgctxt "TEXT"
+msgid ""
+"Forgot your password, please contact the Human Resources Department or the "
+"system administrator"
+msgstr "パスワードを忘れて、人事部またはシステム管理者に連絡して下さい"
+
+#: views/login/index.php:93 views/workflowassign/success.php:2
+msgctxt "TEXT"
+msgid "OK"
+msgstr ""
+
+#: views/mypage/company.php:17
+msgctxt "TEXT"
+msgid "Zip"
+msgstr "郵便番号"
+
+#: views/mypage/company.php:21 views/mypage/company.php:65
+msgctxt "TEXT"
+msgid "Billing Prefecture"
+msgstr "請求先都道府県"
+
+#: views/mypage/company.php:57
+msgctxt "TEXT"
+msgid "Other Emails"
+msgstr "その他メール"
+
+#: views/mypage/company.php:81
+msgctxt "TEXT"
+msgid "Account Status"
+msgstr "アカウントステータス"
+
+#: views/mypage/confirm.php:23 views/mypage/index.php:71
+#: views/mypage/update.php:30
+msgctxt "TEXT"
+msgid "Department"
+msgstr "部署"
+
+#: views/mypage/confirm.php:34
+msgctxt "TEXT"
+msgid "Employee number"
+msgstr "企業従業員番号"
+
+#: views/mypage/confirm.php:46 views/mypage/update.php:54
+#: views/mypage/update.php:56
+msgctxt "TEXT"
+msgid "First Name"
+msgstr "名"
+
+#: views/mypage/confirm.php:51 views/mypage/update.php:65
+#: views/mypage/update.php:67
+msgctxt "TEXT"
+msgid "Last Name"
+msgstr "姓"
+
+#: views/mypage/confirm.php:55
+msgctxt "TEXT"
+msgid "First Kana Name"
+msgstr "メイ"
+
+#: views/mypage/confirm.php:59
+msgctxt "TEXT"
+msgid "Last Kana Name"
+msgstr "セイ"
+
+#: views/mypage/confirm.php:75 views/mypage/update.php:137
+msgctxt "TEXT"
+msgid "Image File"
+msgstr "添付画像ファイル"
+
+#: views/mypage/confirm.php:99 views/mypage/update.php:167
+msgctxt "TEXT"
+msgid "Hire date"
+msgstr "日時導入"
+
+#: views/mypage/confirm.php:106 views/mypage/index.php:85
+#: views/mypage/password.php:48
+msgctxt "BTN"
+msgid "Update"
+msgstr "更新"
+
+#: views/mypage/index.php:86
+msgctxt "BTN"
+msgid "Change Password"
+msgstr "パスワード編集"
+
+#: views/mypage/password.php:24 views/mypage/password.php:26
+msgctxt "TEXT"
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: views/mypage/password.php:35 views/mypage/password.php:37
+msgctxt "TEXT"
+msgid "Password Confirm"
+msgstr "パスワード確認"
+
+#: views/mypage/update.php:42
+msgctxt "TEXT"
+msgid "Employee Numbers"
+msgstr "社員ナンバー"
+
+#: views/mypage/update.php:77 views/mypage/update.php:79
+msgctxt "TEXT"
+msgid "First Name Kana"
+msgstr "名（カナ）"
+
+#: views/mypage/update.php:88 views/mypage/update.php:90
+msgctxt "TEXT"
+msgid "Last Name Kana"
+msgstr "姓（カナ）"
+
+#: views/mypage/update.php:178
+msgctxt "TEXT"
+msgid "Update"
+msgstr "更新"
+
+#: views/news/new.php:52
+msgctxt "LABEL"
+msgid "Publish Date"
+msgstr "発行日付"
+
+#: views/permissions/header_js.php:4
+msgctxt "TEXT"
+msgid "No results found"
+msgstr "結果がありませんでした"
+
+#: views/permissions/header_js.php:5
+msgctxt "TEXT"
+msgid "Searching ..."
+msgstr "検索中"
+
+#: views/permissions/index.php:18
+msgctxt "BTN"
+msgid "User authority set"
+msgstr "ユーザー権限設定"
+
+#: views/permissions/index.php:22
+msgctxt "BTN"
+msgid "MGR authority set"
+msgstr "MRG権限設定"
+
+#: views/permissions/index.php:25
+msgctxt "BTN"
+msgid "Director authority set"
+msgstr "ディレクター権限設定"
+
+#: views/permissions/setting.php:3
+msgctxt "LINK"
+msgid "Default user permission"
+msgstr "デフォールトユーザー権限"
+
+#: views/permissions/setting.php:6
+msgctxt "LINK"
+msgid "Default manager permission"
+msgstr "デフォールトマネジャー権限"
+
+#: views/permissions/setting.php:9
+msgctxt "LINK"
+msgid "Default director permission"
+msgstr "デフォールトディレクター権限"
+
+#: views/sheetlist/list.php:2 views/sheets/list.php:1
+msgctxt "TEXT"
+msgid "List Sheet"
+msgstr "シート一覧"
+
+#: views/sheetlist/list.php:11 views/sheets/list.php:9
+msgctxt "TEXT"
+msgid "Evaluation Weight"
+msgstr "評価ウェイト"
+
+#: views/sheetlist/list.php:12 views/sheets/list.php:10
+msgctxt "TEXT"
+msgid "Status"
+msgstr "ステータス"
+
+#: views/sheetlist/list.php:14 views/sheets/list.php:13
+msgctxt "TEXT"
+msgid "Updated"
+msgstr "更新"
+
+#: views/sheetlist/list.php:43 views/sheetlist/view.php:117
+msgctxt "TEXT"
+msgid "Input Weight"
+msgstr "ウェイト入力"
+
+#: views/sheetlist/view.php:7 views/sheets/edit.php:9 views/sheets/view.php:6
+msgctxt "TEXT"
+msgid "Viewing Sheet#"
+msgstr "シート閲覧"
+
+#: views/sheetlist/view.php:10 views/sheets/edit.php:13 views/sheets/view.php:9
+msgctxt "LABEL"
+msgid "Employee"
+msgstr "社員"
+
+#: views/sheetlist/view.php:16 views/sheets/edit.php:19
+#: views/sheets/view.php:15
+msgctxt "LABEL"
+msgid "Evaluation Term"
+msgstr "評価期間"
+
+#: views/sheetlist/view.php:22 views/sheets/edit.php:25
+#: views/sheets/view.php:21
+msgctxt "LABEL"
+msgid "Evaluation Weight"
+msgstr "評価ウェイト"
+
+#: views/sheetlist/view.php:28 views/sheets/edit.php:31
+#: views/sheets/view.php:27
+msgctxt "LABEL"
+msgid "Evaluation Template"
+msgstr "評価テンプレート"
+
+#: views/sheetlist/view.php:34 views/sheets/edit.php:37
+#: views/sheets/view.php:33
+msgctxt "LABEL"
+msgid "Created Date"
+msgstr "作成日"
+
+#: views/sheetlist/view.php:40 views/sheets/edit.php:43
+#: views/sheets/view.php:39
+msgctxt "LABEL"
+msgid "Updated Date"
+msgstr "更新日"
+
+#: views/sheetlist/view.php:57 views/sheets/review.php:15
+#: views/sheets/update.php:17 views/sheets/view.php:80
+msgctxt "TEXT"
+msgid "Competency title"
+msgstr "コンピテンシータイトル"
+
+#: views/sheetlist/view.php:58 views/sheets/review.php:16
+#: views/sheets/update.php:18 views/sheets/view.php:81
+msgctxt "TEXT"
+msgid "Competency content"
+msgstr "コンピテンシー内容"
+
+#: views/sheetlist/view.php:60 views/sheets/review.php:18
+#: views/sheets/update.php:20 views/sheets/view.php:83
+msgctxt "TEXT"
+msgid "Personal goal"
+msgstr "個人目標"
+
+#: views/sheetlist/view.php:73 views/sheets/review.php:117
+#: views/sheets/update.php:60 views/sheets/view.php:96
+msgctxt "TEXT"
+msgid "MBO"
+msgstr "MBO"
+
+#: views/sheetlist/view.php:79 views/sheets/edit.php:101
+#: views/sheets/review.php:123 views/sheets/update.php:66
+#: views/sheets/view.php:102 views/templates/edit.php:85
+#: views/templates/new.php:63 views/templates/view.php:63
+msgctxt "TEXT"
+msgid "Level 1"
+msgstr "レベル1"
+
+#: views/sheetlist/view.php:80 views/sheets/edit.php:102
+#: views/sheets/review.php:124 views/sheets/update.php:67
+#: views/sheets/view.php:103 views/templates/edit.php:86
+#: views/templates/new.php:64 views/templates/view.php:64
+msgctxt "TEXT"
+msgid "Level 2"
+msgstr "レベル2"
+
+#: views/sheetlist/view.php:81 views/sheets/edit.php:103
+#: views/sheets/review.php:125 views/sheets/update.php:68
+#: views/sheets/view.php:104 views/templates/edit.php:87
+#: views/templates/new.php:65 views/templates/view.php:65
+msgctxt "TEXT"
+msgid "Level 3"
+msgstr "レベル3"
+
+#: views/sheetlist/view.php:82 views/sheets/edit.php:104
+#: views/sheets/review.php:126 views/sheets/update.php:69
+#: views/sheets/view.php:105 views/templates/edit.php:88
+#: views/templates/new.php:66 views/templates/view.php:66
+msgctxt "TEXT"
+msgid "Level 4"
+msgstr "レベル4"
+
+#: views/sheetlist/view.php:83 views/sheets/edit.php:105
+#: views/sheets/review.php:127 views/sheets/update.php:70
+#: views/sheets/view.php:106 views/templates/edit.php:89
+#: views/templates/new.php:67 views/templates/view.php:67
+msgctxt "TEXT"
+msgid "Level 5"
+msgstr "レベル5"
+
+#: views/sheetlist/view.php:84 views/sheets/edit.php:106
+#: views/sheets/review.php:128 views/sheets/update.php:71
+#: views/sheets/view.php:107 views/templates/edit.php:90
+#: views/templates/new.php:68 views/templates/view.php:68
+msgctxt "TEXT"
+msgid "Level 6"
+msgstr "レベル6"
+
+#: views/sheetlist/view.php:85 views/sheets/review.php:129
+#: views/sheets/update.php:72 views/sheets/view.php:108
+#: views/templates/edit.php:91 views/templates/new.php:69
+#: views/templates/view.php:69
+msgctxt "TEXT"
+msgid "Difficutly"
+msgstr "難易度"
+
+#: views/sheetlist/view.php:100 views/sheets/review.php:233
+#: views/sheets/update.php:97 views/sheets/view.php:123
+#: views/templates/edit.php:126 views/templates/new.php:76
+#: views/templates/view.php:95
+msgctxt "TEXT"
+msgid "Goal Setting"
+msgstr "目標設定"
+
+#: views/sheetlist/view.php:105 views/sheets/review.php:238
+#: views/sheets/update.php:102 views/sheets/view.php:128
+#: views/templates/edit.php:130 views/templates/new.php:80
+#: views/templates/view.php:100
+msgctxt "TEXT"
+msgid "Content"
+msgstr "内容"
+
+#: views/sheets/edit.php:57
+msgid "Competency  Weight (%)"
+msgstr "コンピテンシー・ウェイト(%)"
+
+#: views/sheets/edit.php:60
+msgid "MBO  Weight (%)"
+msgstr "MBO ウェイト"
+
+#: views/sheets/header_js.php:4 views/sheets/header_js.php:18
+#: views/templates/header_js.php:4 views/templates/header_js.php:18
+msgctxt "TEXT"
+msgid "Enter Weight"
+msgstr "ウェイト入る"
+
+#: views/sheets/header_js.php:4
+msgctxt "TEXT"
+msgid "Add comment"
+msgstr "コメント追加"
+
+#: views/sheets/header_js.php:18 views/sheets/header_js.php:33
+#: views/templates/header_js.php:18 views/templates/header_js.php:31
+msgctxt "TEXT"
+msgid "Enter Title"
+msgstr "タイトル入る"
+
+#: views/sheets/header_js.php:18 views/templates/header_js.php:18
+msgctxt "TEXT"
+msgid "Enter Level1"
+msgstr "タイトル入る1"
+
+#: views/sheets/header_js.php:18 views/templates/header_js.php:18
+msgctxt "TEXT"
+msgid "Enter Level2"
+msgstr "タイトル入る2"
+
+#: views/sheets/header_js.php:18 views/templates/header_js.php:18
+msgctxt "TEXT"
+msgid "Enter Level3"
+msgstr "タイトル入る3"
+
+#: views/sheets/header_js.php:19 views/templates/header_js.php:18
+msgctxt "TEXT"
+msgid "Enter Level4"
+msgstr "タイトル入る4"
+
+#: views/sheets/header_js.php:19 views/templates/header_js.php:18
+msgctxt "TEXT"
+msgid "Enter Level5"
+msgstr "タイトル入る5"
+
+#: views/sheets/header_js.php:19 views/templates/header_js.php:18
+msgctxt "TEXT"
+msgid "Enter Level6"
+msgstr "タイトル入る6"
+
+#: views/sheets/header_js.php:33 views/templates/header_js.php:31
+msgctxt "TEXT"
+msgid "Enter Content"
+msgstr "内容入る"
+
+#: views/sheets/header_js.php:50 views/sheets/header_js.php:58
+#: views/templates/header_js.php:47 views/templates/header_js.php:55
+msgctxt "TEXT"
+msgid "Do you really want to delete record ?"
+msgstr "レコードを削除しますか？"
+
+#: views/sheets/header_js.php:51 views/templates/header_js.php:48
+msgctxt "TEXT"
+msgid "select not same!"
+msgstr "選択が一致ではありません"
+
+#: views/sheets/header_js.php:52 views/templates/header_js.php:49
+msgctxt "TEXT"
+msgid "Please insert competency"
+msgstr "コンピテンシーを入れてください"
+
+#: views/sheets/header_js.php:53 views/templates/header_js.php:50
+msgctxt "TEXT"
+msgid "Name not empty!"
+msgstr "名前が空いていません"
+
+#: views/sheets/header_js.php:54 views/templates/header_js.php:51
+msgctxt "TEXT"
+msgid "Competency score not correct!"
+msgstr "コンピテンシースコアが正確ではありません"
+
+#: views/sheets/header_js.php:55 views/templates/header_js.php:52
+msgctxt "TEXT"
+msgid "MBO score not correct!"
+msgstr "MBOスコアが正確ではありません"
+
+#: views/sheets/header_js.php:56 views/templates/header_js.php:53
+msgctxt "TEXT"
+msgid "Total score :sum_score % not correct!"
+msgstr "合計スコア：合計スコアが正確ではありません"
+
+#: views/sheets/header_js.php:57 views/templates/header_js.php:54
+msgctxt "TEXT"
+msgid "Unexpected error, Please try again"
+msgstr "予期しないエラーが発生しました、もう一度やって下さい"
+
+#: views/sheets/header_js.php:59 views/templates/header_js.php:56
+msgctxt "TEXT"
+msgid "Please save current selected row"
+msgstr "選ばれた列を保存して下さい"
+
+#: views/sheets/list.php:11
+msgctxt "TEXT"
+msgid "Workflow"
+msgstr "ワークフロー"
+
+#: views/sheets/list.php:29 views/sheets/list.php:58 views/sheets/view.php:56
+msgctxt "TEXT"
+msgid "Locked"
+msgstr "ロックしました"
+
+#: views/sheets/list.php:41
+msgctxt "TEXT"
+msgid "Submited"
+msgstr "提出しました"
+
+#: views/sheets/list.php:48 views/sheets/view.php:59
+msgctxt "LINK"
+msgid "Review"
+msgstr "レビュー"
+
+#: views/sheets/list.php:51
+msgctxt "TEXT"
+msgid "Approved"
+msgstr "承認しました"
+
+#: views/sheets/list.php:54
+msgctxt "TEXT"
+msgid "Declined"
+msgstr ""
+
+#: views/sheets/list.php:71
+msgctxt "TEXT"
+msgid "No sheet"
+msgstr "シートなし"
+
+#: views/sheets/review.php:20 views/sheets/review.php:131
+msgctxt "TEXT"
+msgid "Personal scores"
+msgstr "個人スコア"
+
+#: views/sheets/review.php:23 views/sheets/review.php:134
+msgctxt "TEXT"
+msgid "Personal comments"
+msgstr "個人コメント"
+
+#: views/sheets/review.php:33 views/sheets/review.php:45
+msgctxt "TEXT"
+msgid "Comments"
+msgstr "コメント"
+
+#: views/sheets/review.php:78 views/sheets/review.php:109
+#: views/sheets/review.php:192 views/sheets/review.php:225
+msgctxt "TEXT"
+msgid "Add commnent"
+msgstr "コメント追加"
+
+#: views/sheets/review.php:144 views/sheets/review.php:156
+msgctxt "TEXT"
+msgid "comments"
+msgstr "コメント"
+
+#: views/sheets/review.php:253
+msgctxt "TEXT"
+msgid "Save"
+msgstr "保存します"
+
+#: views/sheets/view.php:49
+msgctxt "LINK"
+msgid "Submit"
+msgstr "提出します"
+
+#: views/sheets/view.php:51
+msgctxt "TEXT"
+msgid "Submitted"
+msgstr "提出しました"
+
+#: views/sheets/view.php:60
+msgctxt "LINK"
+msgid "Approve"
+msgstr "承認します"
+
+#: views/sheets/view.php:61
+msgctxt "LINK"
+msgid "Decline"
+msgstr "拒否します"
+
+#: views/sheets/view.php:63
+msgctxt "LINK"
+msgid "Unlock"
+msgstr "ロック解除します"
+
+#: views/sheets/view.php:66
+msgctxt "LINK"
+msgid "Lock"
+msgstr "ロックします"
+
+#: views/template.php:61
+msgctxt "LINK"
+msgid "Japanese"
+msgstr "日本"
+
+#: views/template.php:64
+msgctxt "LINK"
+msgid "English"
+msgstr "英語"
+
+#: views/template.php:79
+msgctxt "TEXT"
+msgid "Evaluation"
+msgstr "評価"
+
+#: views/template.php:81
+msgctxt "LINK"
+msgid "My Sheet"
+msgstr "自己シート"
+
+#: views/template.php:82
+msgctxt "LINK"
+msgid "Other Sheets"
+msgstr "その他シート"
+
+#: views/template.php:86
+msgctxt "TEXT"
+msgid "360 Evaluation"
+msgstr "周囲者評価"
+
+#: views/template.php:88
+msgctxt "LINK"
+msgid "My 360 Sheets"
+msgstr "360評価"
+
+#: views/template.php:89
+msgctxt "LINK"
+msgid "Other 360 Sheets"
+msgstr "その他360評価"
+
+#: views/template.php:95
+msgctxt "TEXT"
+msgid "Management"
+msgstr "管理"
+
+#: views/template.php:97
+msgctxt "LINK"
+msgid "Employees"
+msgstr "社員"
+
+#: views/template.php:98
+msgctxt "LINK"
+msgid "Template Assignment"
+msgstr "評価シート配布"
+
+#: views/template.php:99
+msgctxt "LINK"
+msgid "Workflow Assignment"
+msgstr "ワークフロー配布"
+
+#: views/template.php:103
+msgctxt "TEXT"
+msgid "System Settings"
+msgstr "システム設定"
+
+#: views/template.php:105
+msgctxt "LINK"
+msgid "Company Info"
+msgstr "企業情報"
+
+#: views/template.php:106
+msgctxt "LINK"
+msgid "Divisions"
+msgstr "部署"
+
+#: views/template.php:107
+msgctxt "LINK"
+msgid "Templates"
+msgstr "テンプレート"
+
+#: views/template.php:108
+msgctxt "LINK"
+msgid "Sheet List"
+msgstr "シート一覧"
+
+#: views/template.php:109
+msgctxt "LINK"
+msgid "Competencies"
+msgstr "コンピテンシー"
+
+#: views/template.php:110
+msgctxt "LINK"
+msgid "MBO"
+msgstr "MBO"
+
+#: views/template.php:111
+msgctxt "LINK"
+msgid "Default Permission"
+msgstr "デフォールト権限"
+
+#: views/template.php:112
+msgctxt "LINK"
+msgid "Salary Grade"
+msgstr "給与等級"
+
+#: views/template.php:113
+msgctxt "LINK"
+msgid "Master Term"
+msgstr "期間マスター"
+
+#: views/template.php:114
+msgctxt "LINK"
+msgid "Terms"
+msgstr "期間"
+
+#: views/template.php:115
+msgctxt "LINK"
+msgid "Relative evaluation"
+msgstr ""
+
+#: views/template.php:116
+msgctxt "LINK"
+msgid "Absolute evaluation"
+msgstr ""
+
+#: views/templateassign/finish.php:6 views/templateassign/preview.php:43
+#: views/workflowassign/preview.php:24 views/workflowassign/preview.php:81
+msgctxt "TEXT"
+msgid "Sheet ID"
+msgstr "シートID"
+
+#: views/templateassign/finish.php:8 views/templateassign/index.php:20
+#: views/templateassign/preview.php:8 views/templateassign/preview.php:45
+msgctxt "TEXT"
+msgid "Template Name"
+msgstr "テンプレート名"
+
+#: views/templateassign/finish.php:9 views/templateassign/index.php:21
+#: views/templateassign/preview.php:9 views/templateassign/preview.php:46
+#: views/templates/index.php:10 views/templates/view.php:11
+msgctxt "TEXT"
+msgid "Term"
+msgstr "期間"
+
+#: views/templateassign/finish.php:10 views/templateassign/index.php:22
+#: views/templateassign/preview.php:10 views/templateassign/preview.php:47
+msgctxt "TEXT"
+msgid "Master Term"
+msgstr "期間マスター"
+
+#: views/templateassign/finish.php:27
+msgctxt "LINK"
+msgid "OK"
+msgstr ""
+
+#: views/templateassign/index.php:7 views/templates/edit.php:23
+#: views/templates/new.php:22
+msgctxt "LABEL"
+msgid "Term"
+msgstr "期間"
+
+#: views/templateassign/index.php:40 views/workflowassign/index.php:77
+msgctxt "BTN"
+msgid "Preview"
+msgstr "プレビュー"
+
+#: views/templateassign/index.php:45 views/templateassign/preview.php:32
+msgctxt "TEXT"
+msgid "No data"
+msgstr "データなし"
+
+#: views/templateassign/index.php:55
+msgctxt "TEXT"
+msgid "Please check division"
+msgstr "部署を確認して下さい"
+
+#: views/templateassign/preview.php:27
+msgctxt "BTN"
+msgid "Create"
+msgstr "作成する"
+
+#: views/templateassign/preview.php:36
+msgctxt "TEXT"
+msgid "Employees Sheet List"
+msgstr "社員シート一覧"
+
+#: views/templateassign/preview.php:64
+msgctxt "LINK"
+msgid "BACK"
+msgstr "戻る"
+
+#: views/templateassign/preview.php:72
+msgctxt "TEXT"
+msgid "Please check employee"
+msgstr "社員を確認して下さい"
+
+#: views/templates/edit.php:27 views/templates/new.php:26
+msgctxt "LABEL"
+msgid "Division"
+msgstr "部署"
+
+#: views/templates/edit.php:31 views/templates/new.php:30
+msgid "Competency Weight (%)"
+msgstr "コンピテンシーウェイト"
+
+#: views/templates/edit.php:69 views/templates/new.php:47
+msgid "MBO Weight (%)"
+msgstr "MBOウェイト"
+
+#: views/templates/edit.php:76 views/templates/new.php:54
+msgid "MBO Template"
+msgstr ""
+
+#: views/templates/edit.php:158 views/templates/new.php:87
+msgid "Save Template"
+msgstr "テンプレート保存"
+
+#: views/templates/index.php:53
+msgid "No"
+msgstr ""
+
+#: views/templates/index.php:56
+msgid "Yes"
+msgstr ""
+
+#: views/templates/index.php:71
+msgid "It has been deleted"
+msgstr "削除されました"
+
+#: views/templates/index.php:73 views/templates/index.php:77
+msgid "It failed to remove"
+msgstr "取り除きが失敗しました"
+
+#: views/templates/view.php:23
+msgctxt "TEXT"
+msgid "Competency Score"
+msgstr "コンピテンシースコア"
+
+#: views/templates/view.php:52
+msgctxt "TEXT"
+msgid "MBO Score"
+msgstr "MBOスコア"
+
+#: views/templates/view.php:121
+msgctxt "LINK"
+msgid "Copy"
+msgstr "コピー"
+
+#: views/workflowassign/header_js.php:17
+msgctxt "TEXT"
+msgid "You must check atleast 1 Division"
+msgstr "少なくとも一つの部署を確認して下さい"
+
+#: views/workflowassign/header_js.php:18
+msgctxt "TEXT"
+msgid "You must Select phase for this Term to assign workflow"
+msgstr "ワークフロー配布のため、期間のフェーズ一つを選んでください"
+
+#: views/workflowassign/header_js.php:19 views/workflowassign/header_js.php:20
+msgctxt "TEXT"
+msgid "You must select Term"
+msgstr "期間を選んでください"
+
+#: views/workflowassign/index.php:21 views/workflowassign/index.php:35
+msgctxt "TEXT"
+msgid "Select workflow template"
+msgstr "テンプレートワークフローを選びます"
+
+#: views/workflowassign/preview.php:18
+msgctxt "TEXT"
+msgid "The evaluation sheet waiting to assign workflow"
+msgstr "評価シートがワークフローに配布する"
+
+#: views/workflowassign/preview.php:22 views/workflowassign/preview.php:79
+msgctxt "TEXT"
+msgid "#"
+msgstr ""
+
+#: views/workflowassign/preview.php:23 views/workflowassign/preview.php:80
+msgctxt "TEXT"
+msgid "Employee Name"
+msgstr "社員名"
+
+#: views/workflowassign/preview.php:25 views/workflowassign/preview.php:82
+msgctxt "TEXT"
+msgid "Template sheet name"
+msgstr "テンプレート・シート名"
+
+#: views/workflowassign/preview.php:26 views/workflowassign/preview.php:83
+msgctxt "TEXT"
+msgid "Number of step in approval workflow default"
+msgstr "デフォールトワークフローの承認の段階数"
+
+#: views/workflowassign/preview.php:75
+msgctxt "TEXT"
+msgid "The evaluation sheet already assigned workflow"
+msgstr "評価シートがワークフローに配布されました"
+
+#: views/workflowassign/preview.php:103
+msgctxt "TEXT"
+msgid "[Exist]"
+msgstr "存在します"
+
+#: views/workflowassign/preview.php:128
+msgctxt "TEXT"
+msgid "Confirm create workflow"
+msgstr "ワークフロー作成の確認"
+
+#: views/workflowassign/preview.php:131
+msgctxt "TEXT"
+msgid "Back"
+msgstr "戻る"
+
+#~ msgctxt "TEXT"
+#~ msgid "Salary grade :grade_name is edited successfully."
+#~ msgstr ":grade_name の給与等級が編集できました。"
+
+#~ msgid "All Mbo List"
+#~ msgstr "MBO一覧"
+
+#~ msgid "Create Mbo"
+#~ msgstr "MBO作成"
+
+#~ msgid "Edit Mbo"
+#~ msgstr "MBO編集"
+
+#~ msgid "Mbo"
+#~ msgstr "MBO"
+
+#~ msgid "Employees List"
+#~ msgstr "社員一覧"
+
+#~ msgctxt "TEXT"
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgctxt "LABEL"
+#~ msgid "Type"
+#~ msgstr "タイプ"
+
+#~ msgctxt "TEXT"
+#~ msgid "List Organizations"
+#~ msgstr "組織一覧"
+
+#~ msgctxt "TEXT"
+#~ msgid "List Competencies"
+#~ msgstr "コンピテンシー一覧"
+
+#~ msgctxt "TEXT"
+#~ msgid "Create Competency"
+#~ msgstr "コンピテンシー設定"
+
+#~ msgctxt "TEXT"
+#~ msgid "Could not save"
+#~ msgstr "保存できませんでした"
+
+#~ msgctxt "TEXT"
+#~ msgid "Edit Competency"
+#~ msgstr "コンピテンシー編集"
+
+#~ msgctxt "TEXT"
+#~ msgid "Deleted competency #"
+#~ msgstr "コンピテンシー削除"
+
+#~ msgctxt "TEXT"
+#~ msgid "Could not delete competency #"
+#~ msgstr "コンピテンシーが削除できませんでした"
+
+#~ msgctxt "TEXT"
+#~ msgid "Deleted competencies"
+#~ msgstr "コンピテンシー削除"
+
+#~ msgctxt "TEXT"
+#~ msgid "Could not delete competencies"
+#~ msgstr "コンピテンシーが削除できませんでした"
+
+#~ msgctxt "TEXT"
+#~ msgid "Old password is invalid"
+#~ msgstr "旧パスワードが無効"
+
+#~ msgctxt "TEXT"
+#~ msgid "name"
+#~ msgstr "名前"
+
+#~ msgctxt "TEXT"
+#~ msgid "company_id"
+#~ msgstr "会社ID"
+
+#~ msgctxt "TEXT"
+#~ msgid "Go back to the list"
+#~ msgstr "一覧に戻る"
+
+#~ msgctxt "TEXT"
+#~ msgid "Group"
+#~ msgstr "グループ"
+
+#~ msgctxt "TEXT"
+#~ msgid "employee name"
+#~ msgstr "社員名"
+
+#~ msgctxt "LABEL"
+#~ msgid "job_category_id"
+#~ msgstr "仕事IDカテゴリ"
+
+#~ msgctxt "TEXT"
+#~ msgid "job_category"
+#~ msgstr "仕事カテゴリ"
+
+#~ msgctxt "LABEL"
+#~ msgid "job_position_id"
+#~ msgstr "職種ID"
+
+#~ msgctxt "TEXT"
+#~ msgid "job_position"
+#~ msgstr "職種"
+
+#~ msgctxt "LABEL"
+#~ msgid "grade_id"
+#~ msgstr "グレードID"
+
+#~ msgctxt "TEXT"
+#~ msgid "grade"
+#~ msgstr "グレード"
+
+#~ msgctxt "LABEL"
+#~ msgid "Group : "
+#~ msgstr "グループ"
+
+#~ msgctxt "TEXT"
+#~ msgid "Viewing Employee #"
+#~ msgstr "#社員を見る"
+
+#~ msgctxt "TEXT"
+#~ msgid "ID:"
+#~ msgstr "ID"
+
+#~ msgctxt "LINK"
+#~ msgid "Nickname:"
+#~ msgstr "ニックネーム"
+
+#~ msgctxt "LINK"
+#~ msgid "Company Name:"
+#~ msgstr "会社名"
+
+#~ msgctxt "LINK"
+#~ msgid "Company Employee No:"
+#~ msgstr "社員番号"
+
+#~ msgctxt "LINK"
+#~ msgid "Full Name:"
+#~ msgstr "フルネーム"
+
+#~ msgctxt "LINK"
+#~ msgid "Phonetic:"
+#~ msgstr "フリガナ"
+
+#~ msgctxt "LINK"
+#~ msgid "Birthday:"
+#~ msgstr "生年月日"
+
+#~ msgctxt "LINK"
+#~ msgid "Gender:"
+#~ msgstr "性別"
+
+#~ msgctxt "LINK"
+#~ msgid "Phone number:"
+#~ msgstr "電話番号"
+
+#~ msgctxt "LINK"
+#~ msgid "Telephone number (mobile):"
+#~ msgstr "携帯番号"
+
+#~ msgctxt "LINK"
+#~ msgid "Email address:"
+#~ msgstr "メールアドレス"
+
+#~ msgctxt "LINK"
+#~ msgid "Account Status:"
+#~ msgstr "アカウント状態"
+
+#~ msgctxt "LINK"
+#~ msgid "Working Status:"
+#~ msgstr "事業開始"
+
+#~ msgctxt "LINK"
+#~ msgid "Working Start:"
+#~ msgstr "事業終了"
+
+#~ msgctxt "LINK"
+#~ msgid "Working End:"
+#~ msgstr "事業終了"
+
+#~ msgctxt "LINK"
+#~ msgid "Administrator Note:"
+#~ msgstr "管理者メモ"
+
+#~ msgctxt "LINK"
+#~ msgid "Group:"
+#~ msgstr "グループ"
+
+#~ msgctxt "LINK"
+#~ msgid "Last login time:"
+#~ msgstr "最終ログインタイム"
+
+#~ msgctxt "LINK"
+#~ msgid "Upload File"
+#~ msgstr "ファイルのアップロード"
+
+#~ msgctxt "LINK"
+#~ msgid "Drag and Drop files..."
+#~ msgstr "ファイルのドラッグ＆ドロップ"
+
+#~ msgctxt "LINK"
+#~ msgid "Upload"
+#~ msgstr "アップロード"
+
+#~ msgctxt "LINK"
+#~ msgid "Import CSV"
+#~ msgstr "CSVインポート"
+
+#~ msgctxt "LINK"
+#~ msgid "Delete All"
+#~ msgstr "全てを削除"
+
+#~ msgctxt "LINK"
+#~ msgid "Import"
+#~ msgstr "インポート"
+
+#~ msgctxt "TEXT"
+#~ msgid "No files."
+#~ msgstr "ファイルなし"
+
+#~ msgctxt "TEXT"
+#~ msgid "Please enter alphanumeric characters."
+#~ msgstr "半角英数字で入力してください"
+
+#~ msgctxt "TEXT"
+#~ msgid ""
+#~ "Forgot your password, please contact the Human Resources Department or "
+#~ "the system administrator."
+#~ msgstr "パスワードを忘れました。システム管理者または人事分に連絡して下さい"
+
+#~ msgctxt "TEXT"
+#~ msgid "Name Kana"
+#~ msgstr "名前カナ"
+
+#~ msgctxt "TEXT"
+#~ msgid "Mobile Tel"
+#~ msgstr "携帯番号"
+
+#~ msgctxt "TEXT"
+#~ msgid "Working Start"
+#~ msgstr "作業開始"
+
+#~ msgctxt "TEXT"
+#~ msgid "Working End"
+#~ msgstr "作業終了"
+
+#~ msgctxt "TEXT"
+#~ msgid "Group Management"
+#~ msgstr "グループ管理"
+
+#~ msgctxt "TEXT"
+#~ msgid "Group List"
+#~ msgstr "グループ一覧"
+
+#~ msgctxt "LINK"
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#~ msgctxt "TEXT"
+#~ msgid "Add Group"
+#~ msgstr "グループの追加"
+
+#~ msgctxt "TEXT"
+#~ msgid "Publish Date"
+#~ msgstr "公開日付"
+
+#~ msgctxt "LINK"
+#~ msgid "Company Evaluation Term"
+#~ msgstr "会社の評価期間"
+
+#~ msgctxt "LINK"
+#~ msgid "Evaluation Sheet Template"
+#~ msgstr "評価シートテンプレート"
+
+#~ msgctxt "LINK"
+#~ msgid "Add Sheet"
+#~ msgstr "シート追加"
+
+#~ msgctxt "LABEL"
+#~ msgid "Evaluation Sheet"
+#~ msgstr "評価シート"
+
+#~ msgctxt "LINK"
+#~ msgid "My Profile"
+#~ msgstr "プロフィール"
+
+#~ msgctxt "LINK"
+#~ msgid "Self Target"
+#~ msgstr "自己目標"
+
+#~ msgctxt "LINK"
+#~ msgid "Evaluation"
+#~ msgstr "評価"
+
+#~ msgctxt "LABEL"
+#~ msgid "Cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "English"
+#~ msgstr "English"
+
+#~ msgid "Confirm"
+#~ msgstr "確認"
+
+#~ msgid "Thanks"
+#~ msgstr "ありがとう"
+
+#~ msgid "Company"
+#~ msgstr "会社"
+
+#~ msgid "Tel"
+#~ msgstr "電話番号"
+
+#~ msgid "Birthday"
+#~ msgstr "誕生日"
+
+#~ msgid "Title"
+#~ msgstr "タイトル"
+
+#~ msgid "Password"
+#~ msgstr "パスワード"
+
+#~ msgid "Change Password"
+#~ msgstr "パスワードの変更"
+
+#~ msgid "Old Password"
+#~ msgstr "古いパスワード"
+
+#~ msgid "Email"
+#~ msgstr "メールアドレス"
+
+#~ msgid "Login Code"
+#~ msgstr "ニックネーム"
+
+#~ msgid "Application"
+#~ msgstr "アプリケーション"
+
+#~ msgid "Ranking"
+#~ msgstr "順位"
+
+#~ msgid "Address 1"
+#~ msgstr "住所1"
+
+#~ msgid "Address 2"
+#~ msgstr "住所2"
+
+#~ msgid "Address 3"
+#~ msgstr "住所3"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "Company Name"
+#~ msgstr "会社名"
+
+#~ msgid "Company Code"
+#~ msgstr "会社コード"
+
+#~ msgid "Contact Name"
+#~ msgstr "連絡先名"
+
+#~ msgid "Contact Name Kana"
+#~ msgstr "問い合わせ先名カナ"
+
+#~ msgid "Contact Email"
+#~ msgstr "連絡先メールアドレス"
+
+#~ msgid "Billing Zip"
+#~ msgstr "請求ジップ"
+
+#~ msgid "Billing Address 1"
+#~ msgstr "請求先住所1"
+
+#~ msgid "Billing Address 2"
+#~ msgstr "請求先住所2"
+
+#~ msgid "Billing Address 3"
+#~ msgstr "請求先住所3"
+
+#~ msgid "Viewing Company #"
+#~ msgstr "表示会社＃"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Last Login"
+#~ msgstr "最終ログイン時刻"
+
+#~ msgid "Logout"
+#~ msgstr "ログアウト"
+
+#~ msgid "Delete"
+#~ msgstr "削除"
+
+#~ msgid "Registration Completion"
+#~ msgstr "ユーザ情報の登録完了"
+
+#~ msgid "Registration of user information has been completed"
+#~ msgstr "ユーザ情報の登録が完了しました。"
+
+#~ msgid "Workflow Type"
+#~ msgstr "申請書種別"
+
+#~ msgid "Approval Type"
+#~ msgstr "承認状況"
+
+#~ msgid "View"
+#~ msgstr "見ます"
+
+#~ msgid "Cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "Name Kana"
+#~ msgstr "フリガナ"
+
+#~ msgid "Gender"
+#~ msgstr "性別"
+
+#~ msgid "Mobile Tel"
+#~ msgstr "電話番号（モバイル）"
+
+#~ msgid "Working Start"
+#~ msgstr "作業を開始する"
+
+#~ msgid "Working End"
+#~ msgstr "作業終了"
+
+#~ msgid "Update"
+#~ msgstr "更新"
+
+#~ msgid "Group Management"
+#~ msgstr "グループ経営"
+
+#~ msgid "Group List"
+#~ msgstr "グループリスト"
+
+#~ msgid "Remove"
+#~ msgstr "削除"
+
+#~ msgid "Add Group"
+#~ msgstr "グループの追加"
+
+#~ msgid "New Password"
+#~ msgstr "新しいパスワード"
+
+#~ msgid "Password Confirm"
+#~ msgstr "パスワードの確認"
+
+#~ msgid "Employee Information"
+#~ msgstr "ユーザ情報"
+
+#~ msgid "Last Name"
+#~ msgstr "姓"
+
+#~ msgid "First Name"
+#~ msgstr "名"
+
+#~ msgid "Last Name Kana"
+#~ msgstr "姓(カナ)"
+
+#~ msgid "First Name Kana"
+#~ msgstr "名(カナ)"
+
+#~ msgid "Create Application"
+#~ msgstr "申請の作成"
+
+#~ msgid "My Profile"
+#~ msgstr "マイプロフィール"
+
+#~ msgid "My Page"
+#~ msgstr "社員情報プロフィール"
+
+#~ msgid "My Company"
+#~ msgstr "目標設定"
+
+#~ msgid "List News"
+#~ msgstr "リスト·ニュース"
+
+#~ msgid "Create News"
+#~ msgstr "ニュースの作成"
+
+#~ msgid "Edit News"
+#~ msgstr "編集ニュース"
+
+#~ msgid "News"
+#~ msgstr "ニュース"
+
+#~ msgid "List Evaluation Sheet Template"
+#~ msgstr "一覧評価シートテンプレート"
+
+#~ msgid "Create Evaluation Sheet Template"
+#~ msgstr "評価シートテンプレートの作成"
+
+#~ msgid "Edit Evaluation Sheet Template"
+#~ msgstr "編集評価シートテンプレート"
+
+#~ msgid "Evaluation Sheet Template"
+#~ msgstr "評価シートのテンプレート"
+
+#~ msgid "Zip"
+#~ msgstr "郵便番号"
+
+#~ msgid "Billing Prefecture"
+#~ msgstr "課金県"
+
+#~ msgid "Other Emails"
+#~ msgstr "その他のE-メール"
+
+#~ msgid "Account Status"
+#~ msgstr "アカウント·ステータス"
+
+#~ msgid "Summary"
+#~ msgstr "概要"
+
+#~ msgid "Employee"
+#~ msgstr "従業員"
+
+#~ msgid "Message"
+#~ msgstr "メッセージ"
+
+#~ msgid "Publish Date"
+#~ msgstr "日付を公開"
+
+#~ msgid "Company Evaluation Term"
+#~ msgstr "会社の評価期間"
+
+#~ msgid "Evaluation Sheet"
+#~ msgstr "評価シートワークフロー"
+
+#~ msgid "Japanese"
+#~ msgstr "日本"
+
+#~ msgid "Body"
+#~ msgstr "体"
+
+#~ msgctxt "group1"
+#~ msgid "test0"
+#~ msgstr "2134678"
+
+#~ msgctxt "group2"
+#~ msgid "test1"
+#~ msgstr "13b41rf13br134b"
+
+#~ msgctxt "group1"
+#~ msgid "test2"
+#~ msgstr "wretbewrybwery"
+
+#~ msgctxt "group3"
+#~ msgid "test3"
+#~ msgstr "1b412b412b41b41b24"
+
+#~ msgctxt "group2"
+#~ msgid "test4"
+#~ msgstr "124b12r34b134b1"
+
+#~ msgctxt "group2"
+#~ msgid "test5"
+#~ msgstr "124b12414b21"
+
+#~ msgctxt "group1"
+#~ msgid "test"
+#~ msgstr "123123123@#@##@#@#"
+
+#~ msgctxt "group2"
+#~ msgid "test"
+#~ msgstr "123123WQE!#@@#$%"
+
+#~ msgctxt "group3"
+#~ msgid "test"
+#~ msgstr "123123@##$%^^$^"
+
+#~ msgctxt "context1"
+#~ msgid "var1"
+#~ msgstr "\"test splash\""
